@@ -1,30 +1,40 @@
 import arcpy, datetime, os
 
-arcpy.gp.overwriteOutput = True
+arcpy.env.overwriteOutput = True
 
 #Read input parameters from GP dialog
-folderPath = r"D:\GIS\python\ReportDataSources\testMxds"#arcpy.GetParameterAsText(0)
-output = r"D:\GIS\python\ReportDataSources\testMxds\DataSourcestest.txt" #arcpy.GetParameterAsText(1)
+folderPath = r"C:\Users\csmith1\LocalWorkSpace\ServerMxds"#\\wvmoap134\Projects"#r"C:\WorkSpace\ReportDataSources\testMxds"#arcpy.GetParameterAsText(0)
+output = r"C:\WorkSpace\ReportDataSources\testMxds\MxdSources.txt" #arcpy.GetParameterAsText(1)
 
 #Create an output file
 outFile = open(output, "w")
-#==== Moved to before loop so you only write the headers once, note linebreak '\n' character
-outFile.write("Map Document;MXD Path;DataFrame Name;DataFrame Description;Data Name;Layer name;Layer Datasource\n")
+#Moved to before loop so you only write the headers once, note linebreak '\n' character
+outFile.write("Map Document;MXD Path;DataFrame Name;DataFrame Description;Data Name;Layer name;Layer Datasource;DB User\n")
+
+
+# List of mxds suspected to be corrupted - when any are included, python.exe crashes
+blackList = ["MilepointLocations.mxd","NYSDOTQuadrangles.mxd","R7Data.mxd","r1_Contracts.mxd"]
+
 
 #Loop through each MXD file
 for root, dirs, files in os.walk(folderPath):
+##    print(files)
     for file in files: # files is a list of files in the current directory
-        if file.lower().endswith(".mxd"):
+        if file.lower().endswith(".mxd") and file not in blackList:
+            ##print(file)
             fullpath = os.path.join(root, file) # root is the current directory
             #Reference MXD
+##            print("B4 MapDoc")
             mxd = arcpy.mapping.MapDocument(fullpath)
-
+##            print("Aft MapDoc")
             #Write MXD data to file
             MapDoc = os.path.basename(mxd.filePath)
             MapDocPath = mxd.filePath
 
             #Reference each data frame and report data
+##            print("B4 ListDF")
             DFList = arcpy.mapping.ListDataFrames(mxd)
+##            print("Aft ListDF")
             for df in DFList:
                 #Format output values
                 if df.description == "": descValue = "None"
@@ -41,10 +51,28 @@ for root, dirs, files in os.walk(folderPath):
                     else: dataName ="N/A2"
                     if lyr.supports("dataSource"):
                         lyrDatasource = lyr.dataSource
-                    else: lyrDatasource = "N/A"
+                        
+                        lastIndex = lyrDatasource.rfind("\\") # last backslash
+                        userTemp = lyrDatasource[:lastIndex]
+                        secondToLast = userTemp.rfind("\\") # 2nd to last backslash
+                        dbUser = userTemp[secondToLast+1:]
+                        print(dbUser)
+                        
+                        dotSplit = dbUser.split('.')
+                        fileType = dotSplit[-1]
+                        print(fileType)
+                        if fileType != 'sde': # deal with non .sde files
+                            dbUser = 'N/A'
+                        
+                    else:
+                        lyrDatasource = "N/A"
+                        dbUser = "N/A"
                     #==== Got rid of DFList and inserted descName instead
-                    seq = (MapDoc, MapDocPath, descName, descValue, dataName, lyrName, lyrDatasource);
+                    seq = (MapDoc, MapDocPath, descName, descValue, dataName, lyrName, lyrDatasource, dbUser);
                     #==== Got rid of "str" variable and just used a string literal - ','
                     outFile.write(';'.join(seq)+'\n')
             del mxd
+
 outFile.close()
+
+print("Process Complete")
