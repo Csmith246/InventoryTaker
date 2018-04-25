@@ -1,0 +1,25 @@
+UserName;TimesUsed
+gis_gisv.sde;2
+PROD_ags01@gisphost.sde;66
+ags03_gisp.sde;9
+gis__gisp.sde;1
+ags02@gisphost.sde;6
+DC_ags02@gisphost.sde;6
+envgis@gisphost.sde;123
+PROD_gis@gisphost.sde;9
+DC_ags03@gisphost.sde;2
+Connection to sde.sde;21
+ags03@gisphost.sde;120
+Connection to osd4.sde;12
+gis__gisv.sde;2
+N/A;156
+gis@gisphost.sde;5
+DC_agsdev01@osd4host.sde;3
+DCags01@gisphost.sde;16
+DC_ags01@gisphost.sde;4
+DCags02@gisphost.sde;15
+DC_viewer01@gisphost.sde;2
+Connection to ags03gisp.sde;4
+fw@gisphost.sde;2
+ags01@gisphost.sde;298
+ags01_gisp.sde;7

@@ -1,0 +1,717 @@
+Data Name;MxdUsedIn;CountPerMxd;CountTotal
+ENVGIS.IA_Communities_palustrine;No Map Using;0;0
+GIS.R7_Traffic_Control_Devices;R7Data (2).mxd;1;1
+ENVGIS.DEC303d_polys;envviewer.mxd;1;1
+ENVGIS.lines;envviewer.mxd;1;1
+ENVGIS.DEC_wtrcls_line;envviewer.mxd;1;2
+ENVGIS.DEC_wtrcls_line;NaturalHeritage.mxd;1;2
+ENVGIS.IA_Birds_SaltMarsh;No Map Using;0;0
+GIS.BDMS_BRIDGE_INV_DATA;CAMCI_backup.mxd;2;4
+GIS.BDMS_BRIDGE_INV_DATA;CAMCI_BDMS.mxd;2;4
+GIS.R7_2009_Parcel_Centroids;No Map Using;0;0
+FW.CountySeat;R7Data (2).mxd;1;1
+FW.PostalBoundary;envviewer.mxd;1;2
+FW.PostalBoundary;R7Data (2).mxd;1;2
+GIS.UTICA125;No Map Using;0;0
+GIS.LargeCulverts_old;No Map Using;0;0
+ENVGIS.nr_all_May06;No Map Using;0;0
+FW.EconomicDevelopmentZones;R7Data (2).mxd;1;2
+FW.EconomicDevelopmentZones;SCFPBP.mxd;1;2
+GIS.SP_Truck_Access_Routes;R7Data (2).mxd;1;1
+GIS.PoliceHeliports;No Map Using;0;0
+FW.CountyRecreation;envviewer.mxd;1;1
+FW.MajorRetailCenter;No Map Using;0;0
+ENVGIS.dec_permitted_facility;envviewer.mxd;1;1
+ENVGIS.springs;envviewer.mxd;1;1
+ENVGIS.tri;envviewer.mxd;1;1
+GISLINK.MV_GIS_STKPL_STATUS;No Map Using;0;0
+GIS.R7_Linear_Contracts;R7RoadHistory.mxd;1;1
+ENVGIS.archeology;envviewer.mxd;1;1
+GIS.POUGHKEEPSIE125;No Map Using;0;0
+GIS.SignalizedIntersect__AT;No Map Using;0;0
+ENVGIS.hwys;envviewer.mxd;1;1
+GIS.UnbuiltArterial;osowscreen.mxd;1;4
+GIS.UnbuiltArterial;osowscreen_new_fields.mxd;1;4
+GIS.UnbuiltArterial;PST.mxd;1;4
+GIS.UnbuiltArterial;pst_bdms.mxd;1;4
+FW.IndianReservation;envviewer.mxd;1;2
+FW.IndianReservation;R7Data (2).mxd;1;2
+GIS.ClosedAviation;No Map Using;0;0
+ENVGIS.IA_PalustrineABasic_PWarbler;No Map Using;0;0
+GIS.PublicAirports;No Map Using;0;0
+FW.Library;No Map Using;0;0
+SPDES.Stormwater_Outfall;envviewer.mxd;1;1
+FW.NYAssemblyDistricts;CAMCI.mxd;1;5
+FW.NYAssemblyDistricts;CAMCI_backup.mxd;1;5
+FW.NYAssemblyDistricts;CAMCI_BDMS.mxd;1;5
+FW.NYAssemblyDistricts;NYBoundaries.mxd;1;5
+FW.NYAssemblyDistricts;R7Data (2).mxd;1;5
+GIS.R1C_Point_Contracts;r1_Contracts (2).mxd;1;1
+ENVGIS.invasives_points_combined;envviewer.mxd;1;1
+ENVGIS.ozone_new;envviewer.mxd;1;1
+ENVGIS.pm10_shore;envviewer.mxd;1;1
+GISLINK.MV_GIS_PSS_HIGHWAY_QA;No Map Using;0;0
+GIS.Specialty_PIL;CAMCI.mxd;1;3
+GIS.Specialty_PIL;CAMCI_backup.mxd;1;3
+GIS.Specialty_PIL;CAMCI_BDMS.mxd;1;3
+GIS.NYVertical;No Map Using;0;0
+FW.NYSenateDistricts;CAMCI.mxd;1;5
+FW.NYSenateDistricts;CAMCI_backup.mxd;1;5
+FW.NYSenateDistricts;CAMCI_BDMS.mxd;1;5
+FW.NYSenateDistricts;NYBoundaries.mxd;1;5
+FW.NYSenateDistricts;R7Data (2).mxd;1;5
+GIS.FloorPlan_Features;Wolf_Rd_Base.mxd;1;1
+GIS.SMALL_CULVERTS;CAMCI.mxd;1;5
+GIS.SMALL_CULVERTS;CAMCI_backup.mxd;1;5
+GIS.SMALL_CULVERTS;CAMCI_BDMS.mxd;1;5
+GIS.SMALL_CULVERTS;envviewer.mxd;1;5
+GIS.SMALL_CULVERTS;R7Data (2).mxd;1;5
+ENVGIS.arcs_060602;NaturalHeritage.mxd;1;1
+FW.MunicipalRecreation;envviewer.mxd;1;1
+ENVGIS.Floodplain;envviewer.mxd;1;1
+ENVGIS.ag_districts_060217;envviewer.mxd;1;1
+GIS.WESTLONG125;No Map Using;0;0
+FW.TollPlaza;R7Data (2).mxd;1;1
+GIS.RDV_QuadIndex;R7Data (2).mxd;1;1
+GIS.IdealSites;mesonet.mxd;1;1
+GIS.GIS_R7_Adopt_A_Highway_New;No Map Using;0;0
+GIS.R7_Speed_Limit;R7Data (2).mxd;1;1
+GIS.R7_Linear_Contract;No Map Using;0;0
+FW.TouristInfo;No Map Using;0;0
+GIS.NonStateTouringRoutes_09162015;PST.mxd;1;1
+ENVGIS.bedrock;envviewer.mxd;1;1
+GIS.BridgePermitData;No Map Using;0;0
+ENVGIS.invasives_poly_combined;envviewer.mxd;1;1
+GIS.EmergencyEventPhotos;RSDA (1).mxd;1;2
+GIS.EmergencyEventPhotos;RSDAdelete.mxd;1;2
+ENVGIS.spills_mar_04_material;envviewer.mxd;1;1
+ENVGIS.NationalRegisterListed;envviewer.mxd;1;1
+FW.StateShoreline;No Map Using;0;0
+FW.AdirondackCatskill;envviewer.mxd;1;1
+GIS.Counties;No Map Using;0;0
+ENVGIS.reg_ms4;envviewer.mxd;1;1
+ENVGIS.IA_EasternSpadefootToad;No Map Using;0;0
+GIS.TRAVELRESTRICTIONS1;osowscreen.mxd;1;2
+GIS.TRAVELRESTRICTIONS1;PST.mxd;1;2
+FW.VAHospital;No Map Using;0;0
+ENVGIS.dde;No Map Using;0;0
+FW.Exit;osowscreen.mxd;1;2
+FW.Exit;osowscreen_new_fields.mxd;1;2
+ENVGIS.LargeCulvert_ElPriorities;envviewer.mxd;1;1
+FW.ServiceArea;No Map Using;0;0
+GIS.AD_Upstate_Accident_Events;No Map Using;0;0
+GIS.RD_Railroad_Removed_Search;RailDataViewer2.mxd;1;1
+ENVGIS.nonattainment_intersections;envviewer.mxd;1;1
+GISLINK.MV_BORING_PROJ_GIS_QA;No Map Using;0;0
+GISLINK.MV_GIS_PSS_BRIDGE_QA;No Map Using;0;0
+ENVGIS.DEC_wtrcls_poly;envviewer.mxd;1;2
+ENVGIS.DEC_wtrcls_poly;NaturalHeritage.mxd;1;2
+FW.Hospital;CAMCI.mxd;1;4
+FW.Hospital;CAMCI_backup.mxd;1;4
+FW.Hospital;CAMCI_BDMS.mxd;1;4
+FW.Hospital;R7Data (2).mxd;1;4
+ENVGIS.mines05;envviewer.mxd;1;1
+GIS.R7_2008_HAL;No Map Using;0;0
+GIS.AADT_Current;TDV.mxd;1;1
+ENVGIS.nycso;envviewer.mxd;1;1
+GIS.DOT_Stockpile_Facilities_1;No Map Using;0;0
+GIS.CPU_PavementNeedsWithDesc;CAMCI.mxd;3;9
+GIS.CPU_PavementNeedsWithDesc;CAMCI_backup.mxd;3;9
+GIS.CPU_PavementNeedsWithDesc;CAMCI_BDMS.mxd;3;9
+ENVGIS.Invasive_Plants;envviewer.mxd;1;1
+GIS.gnisFeature;No Map Using;0;0
+GIS.R7_Bridge_Inspection;R7Data (2).mxd;1;1
+GIS.CPU_BRIDGE_INV_CWS;CAMCI.mxd;1;3
+GIS.CPU_BRIDGE_INV_CWS;CAMCI_backup.mxd;1;3
+GIS.CPU_BRIDGE_INV_CWS;CAMCI_BDMS.mxd;1;3
+ENVGIS.decwet_arcs;envviewer.mxd;1;1
+GISLINK.MV_GIS_SCIIS_DATA_QA;No Map Using;0;0
+RSDA.ROAD_STATUSfromDev;No Map Using;0;0
+GIS.NonStateTouringRoute;osowscreen.mxd;1;3
+GIS.NonStateTouringRoute;osowscreen_new_fields.mxd;1;3
+GIS.NonStateTouringRoute;pst_bdms.mxd;1;3
+FW.NortheastStates;No Map Using;0;0
+GISLINK.MV_GIS_MEXIS_BIKING_QA;No Map Using;0;0
+GIS.RD_Freight_Stations;RailDataViewer.mxd;1;2
+GIS.RD_Freight_Stations;RailDataViewer2.mxd;1;2
+GIS.NYWORKS_Highway_PTS;No Map Using;0;0
+ENVGIS.decwet_poly;envviewer.mxd;1;1
+GIS.AD_Upstate_HAL_2009;No Map Using;0;0
+GIS.STOCKPILE_STATUS;maintviewer.mxd;7;28
+GIS.STOCKPILE_STATUS;maintviewerMarch2-2018.mxd;7;28
+GIS.STOCKPILE_STATUS;maintviewer_backup.mxd;7;28
+GIS.STOCKPILE_STATUS;Maint_StockpileStatus.mxd;7;28
+GISLINK.MV_WTA_WINTER_VIEW_QA;No Map Using;0;0
+GIS.CPU_CARDS_Status;CAMCI.mxd;1;1
+GIS.RegionalEconomicDevelopment;No Map Using;0;0
+GISLINK.MV_CAPITAL_PROJECTS_HIGHWAY_QA;No Map Using;0;0
+GISLINK.MV_CAPITAL_PROJECTS_BRIDGE;No Map Using;0;0
+GIS.R1_SH_Number;r1_Contracts (2).mxd;1;1
+GIS.FederalAidEligibleRoads;FAE.mxd;1;3
+GIS.FederalAidEligibleRoads;FAEG.mxd;1;3
+GIS.FederalAidEligibleRoads;R7Data (2).mxd;1;3
+ENVGIS.national_parks;envviewer.mxd;1;1
+GISLINK.MV_BDIS_LARGECULVERTS;No Map Using;0;0
+GIS.AD_NYSP_Troops;No Map Using;0;0
+FW.InterstateMilepostRoute;No Map Using;0;0
+GIS.PIL;CAMCI.mxd;1;4
+GIS.PIL;CAMCI_backup.mxd;1;4
+GIS.PIL;CAMCI_BDMS.mxd;1;4
+GIS.PIL;R7Data (2).mxd;1;4
+GIS.RIS_LINEAR_FEATURES;FC.mxd;2;51
+GIS.RIS_LINEAR_FEATURES;ris.mxd;49;51
+FW.FHWAUrbanAreas2010;FC.mxd;1;3
+FW.FHWAUrbanAreas2010;R7Data (2).mxd;1;3
+FW.FHWAUrbanAreas2010;ris.mxd;1;3
+GIS.MV_BDIS_BRIDGES_TEST;No Map Using;0;0
+GIS.DOT_Facility;maintviewer.mxd;1;4
+GIS.DOT_Facility;maintviewerMarch2-2018.mxd;1;4
+GIS.DOT_Facility;maintviewer_backup.mxd;1;4
+GIS.DOT_Facility;mesonet.mxd;1;4
+GIS.Short_Counts;TDV.mxd;1;1
+GIS.NYPLAN;No Map Using;0;0
+ENVGIS.IA_Tiger_Salamander;No Map Using;0;0
+GIS.LRSN_Milepoint;No Map Using;0;0
+GIS.Floorplan_Conf_Rooms;50_Wolf_Rd_Cubes.mxd;1;2
+GIS.Floorplan_Conf_Rooms;50_Wolf_Rd_Cubes_prod.mxd;1;2
+GIS.ActiveHighwayProjectsWM;ActiveProjects.mxd;1;2
+GIS.ActiveHighwayProjectsWM;ActiveProjects_EO.mxd;1;2
+ENVGIS.AdirondackTest;No Map Using;0;0
+ENVGIS.hwcm_reports;envviewer.mxd;1;1
+ENVGIS.nyfaults;envviewer.mxd;1;1
+ENVGIS.bin_rcra_new;envviewer.mxd;1;1
+GIS.VersionTenThreeOne;No Map Using;0;0
+ENVGIS.Coastal_boundaries;envviewer.mxd;1;1
+ENVGIS.historic_canal_structures;envviewer.mxd;1;1
+RSDA.RS_2011SEPT_IRENE_LEE;No Map Using;0;0
+ENVGIS.points;envviewer.mxd;1;1
+ENVGIS.dec11_new;envviewer.mxd;1;1
+ENVGIS.quads;envviewer.mxd;1;1
+ENVGIS.VRA_2008_pts;envviewer.mxd;1;1
+GIS.CPU_CARD_FxdObjROR_Count_Rate;No Map Using;0;0
+GISLINK.MV_SOS_SUBRES4GIS;No Map Using;0;0
+GIS.BORING_LOCATIONS_UNMAPPABLE;No Map Using;0;0
+GIS.shield_pnts_county;No Map Using;0;0
+GIS.Interchanges;No Map Using;0;0
+GIS.BORING_TABLE;No Map Using;0;0
+GIS.R7_Truck_Access_Routes;No Map Using;0;0
+ENVGIS.dva_1995_with_rm_count;envviewer.mxd;1;1
+GIS.Business;CAMCI.mxd;1;3
+GIS.Business;CAMCI_backup.mxd;1;3
+GIS.Business;CAMCI_BDMS.mxd;1;3
+GIS.R7_2008_PIL;No Map Using;0;0
+GIS.PSS_BRIDGE_TABLE;No Map Using;0;0
+GIS.R7_2008_PII;No Map Using;0;0
+GIS.University;CAMCI.mxd;1;3
+GIS.University;CAMCI_backup.mxd;1;3
+GIS.University;CAMCI_BDMS.mxd;1;3
+ENVGIS.NHD_point;envviewer.mxd;1;1
+GISLINK.MV_BDIS_BRIDGES;No Map Using;0;0
+GIS.StrV_LARGE_CULVERTS;CAMCI_backup.mxd;1;2
+GIS.StrV_LARGE_CULVERTS;CAMCI_BDMS.mxd;1;2
+GIS.ActiveRegionwideProjectsWM;No Map Using;0;0
+GIS.StatewideParcels2015;No Map Using;0;0
+ENVGIS.dva2000_with_rm_count;envviewer.mxd;1;1
+RSDA.DAMAGE_ASSESSMENTS_HISTORY;No Map Using;0;0
+FW.ParkingArea;No Map Using;0;0
+RSDA.DA_ARCHIVE;No Map Using;0;0
+GIS.IdealSitesBuffer;mesonet.mxd;1;1
+GIS.HARN2002;No Map Using;0;0
+GIS.CPU_Culvert_Impacts;CAMCI.mxd;1;3
+GIS.CPU_Culvert_Impacts;CAMCI_backup.mxd;1;3
+GIS.CPU_Culvert_Impacts;CAMCI_BDMS.mxd;1;3
+GIS.SP_ZONES;No Map Using;0;0
+GIS.CPU_CARD_HeadOn_Count_Rate;CAMCI.mxd;1;3
+GIS.CPU_CARD_HeadOn_Count_Rate;CAMCI_backup.mxd;1;3
+GIS.CPU_CARD_HeadOn_Count_Rate;CAMCI_BDMS.mxd;1;3
+GIS.CPU_Bridge_CurrentWorkCosts;No Map Using;0;0
+FW.NYPowerCompanies;R7Data (2).mxd;1;1
+GIS.MilitaryHeliports;No Map Using;0;0
+GIS.BikeRoutes_NotClipped_BU;No Map Using;0;0
+FW.Railroad;R7Data (2).mxd;1;3
+FW.Railroad;RailDataViewer.mxd;1;3
+FW.Railroad;RailDataViewer2.mxd;1;3
+GIS.WaiverBridges;PostedBridges.mxd;1;1
+GIS.SAMPLES;No Map Using;0;0
+ENVGIS.coalgas;envviewer.mxd;1;1
+GISLINK.MV_GIS_MEXIS_BIKING;No Map Using;0;0
+GIS.MajorBridgeProjects;No Map Using;0;0
+ENVGIS.VRA_2008_lines;envviewer.mxd;1;1
+ENVGIS.current_canal_alignment;envviewer.mxd;1;1
+GIS.SP_Pavement_Report_2008;No Map Using;0;0
+GIS.SMALL_CULVERTS_QA;No Map Using;0;0
+FW.USCongressionalDistricts;CAMCI.mxd;1;5
+FW.USCongressionalDistricts;CAMCI_backup.mxd;1;5
+FW.USCongressionalDistricts;CAMCI_BDMS.mxd;1;5
+FW.USCongressionalDistricts;NYBoundaries.mxd;1;5
+FW.USCongressionalDistricts;R7Data (2).mxd;1;5
+ENVGIS.scenic_areas;envviewer.mxd;1;1
+ENVGIS.nonattainment_int_buffer;envviewer.mxd;1;1
+GISLINK.MV_BORING_PROJ_GIS;No Map Using;0;0
+FW.SchoolDistricts;R7Data (2).mxd;1;1
+GIS.StreetSegment;No Map Using;0;0
+GISLINK.MV_GIS_BRIDGE_PERMIT_DATA_QA;No Map Using;0;0
+GIS.BDIS_BRIDGES;BDIS_Bridges_Test.mxd;1;21
+GIS.BDIS_BRIDGES;CAMCI.mxd;2;21
+GIS.BDIS_BRIDGES;CAMCI_Bridges_Null.mxd;1;21
+GIS.BDIS_BRIDGES;CVDataFeed.mxd;3;21
+GIS.BDIS_BRIDGES;osowscreen.mxd;3;21
+GIS.BDIS_BRIDGES;osowscreenbin.mxd;1;21
+GIS.BDIS_BRIDGES;PostedBridges.mxd;5;21
+GIS.BDIS_BRIDGES;PST.mxd;4;21
+GIS.BDIS_BRIDGES;pstbin.mxd;1;21
+GISLINK.MV_GIS_STKPL_STATUS_RGNL;No Map Using;0;0
+GIS.PMI_Orthos;pmi.mxd;1;1
+ENVGIS.invasives_lines_combined;envviewer.mxd;1;1
+GIS.ALTSTREETNAME_TBL;No Map Using;0;0
+GISLINK.MV_BORING_SAMP_GIS_QA;No Map Using;0;0
+GISLINK.MV_GIS_STKPL_STATUS_STWD;No Map Using;0;0
+GIS.RIS_POINT_FEATURES_TABLE;No Map Using;0;0
+GIS.UncontrolledCrosswalks;UncontrolledCrosswalks.mxd;1;1
+ENVGIS.nwi_poly;envviewer.mxd;1;1
+GIS.R7_Municipal_Snow_Routes;R7Data (2).mxd;1;1
+GISLINK.MV_GIS_LCIS_CLVRT_DATA;No Map Using;0;0
+ENVGIS.historic_canal_alignment;envviewer.mxd;1;1
+ENVGIS.fishing_access;envviewer.mxd;1;1
+GIS.FunctionalClass;No Map Using;0;0
+GIS.ROCHESTER125;No Map Using;0;0
+GIS.R7_State_Snow_Routes;R7Data (2).mxd;1;1
+GIS.Jeff_drop_inlets;R7Data (2).mxd;1;1
+ENVGIS.IA_Tiger_Salamander_historical;No Map Using;0;0
+GISLINK.MV_GIS_STKPL_STATUS_RGNL_QA;No Map Using;0;0
+GIS.PSS_BRIDGE_PROJECTS;CAMCI.mxd;1;6
+GIS.PSS_BRIDGE_PROJECTS;CAMCI_backup.mxd;1;6
+GIS.PSS_BRIDGE_PROJECTS;CAMCI_BDMS.mxd;1;6
+GIS.PSS_BRIDGE_PROJECTS;envviewer.mxd;1;6
+GIS.PSS_BRIDGE_PROJECTS;PSS_Projects.mxd;1;6
+GIS.PSS_BRIDGE_PROJECTS;R7Data (2).mxd;1;6
+FW.TransportationTerminal;No Map Using;0;0
+ENVGIS.DEC_regions;envviewer.mxd;1;1
+GIS.ABP_DBB;No Map Using;0;0
+ENVGIS.cover_type_polygons;envviewer.mxd;1;2
+ENVGIS.cover_type_polygons;NaturalHeritage.mxd;1;2
+GISLINK.MV_CAPITAL_PROJECTS_LOCATED;No Map Using;0;0
+GIS.StrV_LARGE_CULVERTS_QA;No Map Using;0;0
+GIS.GIS_r7_2010_hal;No Map Using;0;0
+FW.ReferenceMarker;CAMCI.mxd;9;81
+FW.ReferenceMarker;CAMCI_backup.mxd;9;81
+FW.ReferenceMarker;CAMCI_BDMS.mxd;9;81
+FW.ReferenceMarker;envviewer.mxd;9;81
+FW.ReferenceMarker;r1_Contracts (2).mxd;9;81
+FW.ReferenceMarker;R7Data (2).mxd;9;81
+FW.ReferenceMarker;R7RoadHistory.mxd;9;81
+FW.ReferenceMarker;ReferenceMarkers.mxd;9;81
+FW.ReferenceMarker;ris.mxd;9;81
+GIS.HOOCS_Restrictions;No Map Using;0;0
+ENVGIS.regulatory_polygons;envviewer.mxd;1;2
+ENVGIS.regulatory_polygons;NaturalHeritage.mxd;1;2
+ENVGIS.intakes;envviewer.mxd;1;1
+ENVGIS.desig_rivers_poly;envviewer.mxd;1;1
+FW.NYGasCompanies;R7Data (2).mxd;1;1
+FW.FederalRecreation;envviewer.mxd;1;1
+GIS.nonattainment_intersections;No Map Using;0;0
+GIS.CPU_AirportData;CAMCI.mxd;1;3
+GIS.CPU_AirportData;CAMCI_backup.mxd;1;3
+GIS.CPU_AirportData;CAMCI_BDMS.mxd;1;3
+GIS.SMALL_CULVERT_TABLE_QA;No Map Using;0;0
+ENVGIS.apalandclass;envviewer.mxd;2;2
+GIS.R1C_Linear_Contracts;r1_Contracts (2).mxd;1;1
+GIS.ABP_Bridges;No Map Using;0;0
+GIS.Valuation_Maps;RailDataViewer.mxd;1;1
+GIS.Villages;No Map Using;0;0
+ENVGIS.Coastal_habitats;envviewer.mxd;1;1
+GIS.RD_Railroad_Removed;RailDataViewer.mxd;1;2
+GIS.RD_Railroad_Removed;RailDataViewer2.mxd;1;2
+GIS.ABP_DB;No Map Using;0;0
+ENVGIS.surficial;envviewer.mxd;1;1
+GIS.DOT_Facilities;No Map Using;0;0
+ENVGIS.CONUS_wet_linears_utm;NaturalHeritage.mxd;1;1
+GIS.SCFP_Bridge_Projects;No Map Using;0;0
+SPDES.Outfall;No Map Using;0;0
+GIS.SV_BIKEROUTES;BikeRoutes.mxd;1;3
+GIS.SV_BIKEROUTES;BikeRoutes_RedGreen.mxd;1;3
+GIS.SV_BIKEROUTES;NYSBikeMap_082217.mxd;1;3
+GIS.NYCOrderHorizontal;No Map Using;0;0
+GIS.NECORS;No Map Using;0;0
+GIS.PSS_HIGHWAY_PROJECTS;CAMCI.mxd;1;6
+GIS.PSS_HIGHWAY_PROJECTS;CAMCI_backup.mxd;1;6
+GIS.PSS_HIGHWAY_PROJECTS;CAMCI_BDMS.mxd;1;6
+GIS.PSS_HIGHWAY_PROJECTS;envviewer.mxd;1;6
+GIS.PSS_HIGHWAY_PROJECTS;PSS_Projects.mxd;1;6
+GIS.PSS_HIGHWAY_PROJECTS;R7Data (2).mxd;1;6
+GIS.shield_pnts;No Map Using;0;0
+GIS.Bridge;No Map Using;0;0
+FW.PostalInventory;No Map Using;0;0
+GIS.AD_Downstate_HAL_2009;No Map Using;0;0
+GIS.FloorPlan_Cubes_Backup;No Map Using;0;0
+ENVGIS.ny_ssa;envviewer.mxd;1;1
+GIS.PSS_HIGHWAY_PROJECTS_UM;No Map Using;0;0
+ENVGIS.Scenic_Byways;envviewer.mxd;1;1
+GISLINK.MV_GIS_INV_DATA_QA;No Map Using;0;0
+FW.ACEPorts;R7Data (2).mxd;1;1
+GISLINK.MV_WTA_WINTER_VIEW;No Map Using;0;0
+GIS.SV_STOCKPILE_STATUS_QA;Maint_StockpileStatus_SV.mxd;7;7
+ENVGIS.cover_type_arcs;envviewer.mxd;1;2
+ENVGIS.cover_type_arcs;NaturalHeritage.mxd;1;2
+ENVGIS.polygons;envviewer.mxd;1;1
+FW.County;ris.mxd;1;2
+FW.County;ZoomToPlace.mxd;1;2
+ENVGIS.hwys_1;No Map Using;0;0
+GIS.NYStreets;No Map Using;0;0
+FW.LinearHydrography;envviewer.mxd;1;1
+GIS.SMALL_CULVERT_TABLE;No Map Using;0;0
+ENVGIS.NHD_waterbodies;envviewer.mxd;1;1
+GIS.CITYTOWN;No Map Using;0;0
+GIS.RailBridges;No Map Using;0;0
+FW.VillageShoreline;No Map Using;0;0
+GIS.r7_2012_hal;No Map Using;0;0
+FW.DOTRegionsShoreline;BikeRoutes.mxd;1;5
+FW.DOTRegionsShoreline;BikeRoutes_RedGreen.mxd;1;5
+FW.DOTRegionsShoreline;NYBoundaries.mxd;2;5
+FW.DOTRegionsShoreline;SCFPBP.mxd;1;5
+GIS.SV_BDIS_BRIDGES;No Map Using;0;0
+RSDA.DA_2011SEPT_IRENE_LEE;No Map Using;0;0
+GIS.CPU_Bridges_Impact;CAMCI.mxd;1;3
+GIS.CPU_Bridges_Impact;CAMCI_backup.mxd;1;3
+GIS.CPU_Bridges_Impact;CAMCI_BDMS.mxd;1;3
+GIS.DOT_Stockpile_Facilities;No Map Using;0;0
+ENVGIS.NY_Aquifers_region;envviewer.mxd;1;1
+GIS.SV_STOCKPILE_STATUS;No Map Using;0;0
+GIS.Rail_Trail;No Map Using;0;0
+GISLINK.RDS_AR_SNAPSHOT;No Map Using;0;0
+GIS.CPU_NHSPlus;CAMCI.mxd;1;3
+GIS.CPU_NHSPlus;CAMCI_backup.mxd;1;3
+GIS.CPU_NHSPlus;CAMCI_BDMS.mxd;1;3
+GIS.SV_STKPL_STATUS_QA;No Map Using;0;0
+ENVGIS.polygons_060602;NaturalHeritage.mxd;1;1
+FW.AreaHydrography;envviewer.mxd;1;1
+FW.FHWAUrbanAreas2000;No Map Using;0;0
+GIS.SV_BDIS_LARGECULVERTS;No Map Using;0;0
+GIS.InactiveAviation;No Map Using;0;0
+GIS.MajorShoppingCenter;CAMCI.mxd;1;3
+GIS.MajorShoppingCenter;CAMCI_backup.mxd;1;3
+GIS.MajorShoppingCenter;CAMCI_BDMS.mxd;1;3
+FW.BusStation;CAMCI.mxd;1;3
+FW.BusStation;CAMCI_backup.mxd;1;3
+FW.BusStation;CAMCI_BDMS.mxd;1;3
+GIS.RD_School_District_Boundaries;RailDataViewer.mxd;1;2
+GIS.RD_School_District_Boundaries;RailDataViewer2.mxd;1;2
+ENVGIS.regulatory_arcs;envviewer.mxd;1;2
+ENVGIS.regulatory_arcs;NaturalHeritage.mxd;1;2
+GIS.R7_Tax_Parcels_Agencies;R7Data (2).mxd;1;1
+GIS.SeaplaneBases;No Map Using;0;0
+GIS.Scour_Critical;No Map Using;0;0
+GIS.AbandonedAviation;No Map Using;0;0
+GIS.RIS_Statewide_SH;RIS_Statewide_SH.mxd;1;1
+GISLINK.MV_GIS_PSS_HIGHWAY;No Map Using;0;0
+ENVGIS.tmdl_basins;envviewer.mxd;1;1
+GIS.CPU_Sidewalks;CAMCI.mxd;1;3
+GIS.CPU_Sidewalks;CAMCI_backup.mxd;1;3
+GIS.CPU_Sidewalks;CAMCI_BDMS.mxd;1;3
+GIS.SV_STKPL_STATUS;mesonet.mxd;7;7
+GIS.ModularHomeRoutes;osowscreen.mxd;1;4
+GIS.ModularHomeRoutes;osowscreen_new_fields.mxd;1;4
+GIS.ModularHomeRoutes;PST.mxd;1;4
+GIS.ModularHomeRoutes;pst_bdms.mxd;1;4
+ENVGIS.tbins;envviewer.mxd;1;1
+ENVGIS.farm_si_110429;envviewer.mxd;1;1
+ENVGIS.hydric_soils_110429;envviewer.mxd;1;1
+GIS.Grade_Crossings;TDV.mxd;1;1
+GISLINK.RDS_AR_SNAPSHOT_QA;No Map Using;0;0
+GISLINK.MV_BOR_BORING_GIS_QA;No Map Using;0;0
+ENVGIS.ny_tri;envviewer.mxd;1;1
+GIS.gnisPlace;No Map Using;0;0
+GISLINK.MV_DIRECTORY_QA;No Map Using;0;0
+FW.Customs;R7Data (2).mxd;1;1
+GIS.CPU_Roads_Impact;CAMCI.mxd;1;3
+GIS.CPU_Roads_Impact;CAMCI_backup.mxd;1;3
+GIS.CPU_Roads_Impact;CAMCI_BDMS.mxd;1;3
+GIS.MajorHighwayProjectsPts;No Map Using;0;0
+GISLINK.MV_GIS_BIKING_FACILITIES_QA;No Map Using;0;0
+FW.CityTax;No Map Using;0;0
+GIS.BikeFacilities;NYSBikeMap.mxd;16;32
+GIS.BikeFacilities;NYSBikeMap_082217.mxd;16;32
+GISLINK.MV_BOR_BORING_GIS;No Map Using;0;0
+GIS.nyhyd3m_water;No Map Using;0;0
+FW.PublicSchool;R7Data (2).mxd;1;1
+GISLINK.MV_GIS_PSS_BRIDGE;No Map Using;0;0
+GIS.NEStates;No Map Using;0;0
+GIS.StrV_Region_Residency_County;CAMCI.mxd;1;3
+GIS.StrV_Region_Residency_County;CAMCI_backup.mxd;1;3
+GIS.StrV_Region_Residency_County;CAMCI_BDMS.mxd;1;3
+FW.CityTown;ris.mxd;1;2
+FW.CityTown;ZoomToPlace.mxd;1;2
+ENVGIS.DEC303d_lines;envviewer.mxd;1;1
+GIS.FloorPlan_Cubes;50_Wolf_Rd_Cubes.mxd;3;6
+GIS.FloorPlan_Cubes;50_Wolf_Rd_Cubes_prod.mxd;3;6
+GISLINK.MV_BORING_SAMP_GIS;No Map Using;0;0
+GIS.R7_shlimits;R7RoadHistory.mxd;1;1
+FW.StateCampground;No Map Using;0;0
+GIS.NYC125;No Map Using;0;0
+FW.GovernmentOffice;No Map Using;0;0
+ENVGIS.nynhp_dot_comms;NaturalHeritage.mxd;1;1
+GIS.ThroughRoutes;No Map Using;0;0
+GIS.CARSRoadwayFeaturesOct2009;No Map Using;0;0
+GIS.TruckAccess;No Map Using;0;0
+GIS.NYWORKS_Highway;No Map Using;0;0
+GIS.R7_SH_Tick_Mark;R7RoadHistory.mxd;1;1
+FW.Hydrography3m;No Map Using;0;0
+GIS.ActiveBridgeProjectsWM;ActiveProjects.mxd;1;2
+GIS.ActiveBridgeProjectsWM;ActiveProjects_EO.mxd;1;2
+GIS.ActiveLocatedProjectsWM;ActiveProjects.mxd;1;2
+GIS.ActiveLocatedProjectsWM;ActiveProjects_EO.mxd;1;2
+FW.ThruwayRamp;No Map Using;0;0
+GIS.RD_Passenger_Stations;CAMCI.mxd;1;5
+GIS.RD_Passenger_Stations;CAMCI_backup.mxd;1;5
+GIS.RD_Passenger_Stations;CAMCI_BDMS.mxd;1;5
+GIS.RD_Passenger_Stations;RailDataViewer.mxd;1;5
+GIS.RD_Passenger_Stations;RailDataViewer2.mxd;1;5
+ENVGIS.remediation_sites;envviewer.mxd;1;1
+GIS.RefMkr;No Map Using;0;0
+ENVGIS.phosrestr24;envviewer.mxd;1;1
+ENVGIS.cr_reports;envviewer.mxd;1;1
+GIS.R7_Tax_Parcels_Agencies_1;No Map Using;0;0
+GIS.Floorplan_Outline;50_Wolf_Rd_Cubes.mxd;1;2
+GIS.Floorplan_Outline;50_Wolf_Rd_Cubes_prod.mxd;1;2
+ENVGIS.IA_SouthernLeopardFrog;No Map Using;0;0
+FW.InterstateMilepost;No Map Using;0;0
+GIS.RD_Yards;RailDataViewer.mxd;1;2
+GIS.RD_Yards;RailDataViewer2.mxd;1;2
+GIS.PSS_HIGHWAY_TABLE;No Map Using;0;0
+ENVGIS.NHD_SubBasins;envviewer.mxd;1;1
+ENVGIS.IA_PeregrineFalcon;No Map Using;0;0
+GIS.RIS_POINT_FEATURES;ris.mxd;5;5
+GIS.R7_2010_Parcel_Centroids;No Map Using;0;0
+GIS.CPU_RoadwayInventory;No Map Using;0;0
+ENVGIS.duct24;envviewer.mxd;1;1
+ENVGIS.dva_pip;envviewer.mxd;1;1
+GIS.NEW_ADDRESS_LOCATOR_LOX;No Map Using;0;0
+FW.GeneralHydrography;No Map Using;0;0
+FW.CityTownShoreline;SharedServices.mxd;1;1
+GIS.NYSDOTCORS;No Map Using;0;0
+GISLINK.MV_GIS_LCIS_CLVR_DATA;No Map Using;0;0
+SPDES.Stormwater_Outfall_081812;No Map Using;0;0
+GIS.gnisHydro;No Map Using;0;0
+GISLINK.MV_GIS_BIKING_FACILITIES;No Map Using;0;0
+ENVGIS.Env_easement;envviewer.mxd;1;1
+ENVGIS.wells;envviewer.mxd;1;1
+FW.DOTFacility;envviewer.mxd;1;4
+FW.DOTFacility;R7Data (2).mxd;3;4
+FW.Locks;R7Data (2).mxd;1;1
+GIS.ActiveHighwayProjectsPtsWM;ActiveProjects.mxd;1;1
+ENVGIS.historic_bridges;envviewer.mxd;1;1
+ENVGIS.nri_join;envviewer.mxd;1;1
+FW.Bridge;envviewer.mxd;1;4
+FW.Bridge;NaturalHeritage.mxd;1;4
+FW.Bridge;ris.mxd;1;4
+FW.Bridge;TDV.mxd;1;4
+FW.Roads;No Map Using;0;0
+FW.MajorHighway;envviewer.mxd;1;1
+GIS.R7_Area_Speed_Zones;R7Data (2).mxd;1;1
+GIS.R7_2007_Parcel_Centroids;No Map Using;0;0
+ENVGIS.IA_FenceLizard;No Map Using;0;0
+ENVGIS.IA_Birds_SaltMarsh_historical;No Map Using;0;0
+GIS.R7_Overheadsigns;R7Data (2).mxd;1;1
+ENVGIS.co_new;envviewer.mxd;1;1
+GIS.NYWORKS_Bridges;No Map Using;0;0
+ENVGIS.nwi_arcs;envviewer.mxd;1;1
+ENVGIS.NHD_Area;envviewer.mxd;1;1
+GIS.RoadwayInventory;CAMCI.mxd;6;44
+GIS.RoadwayInventory;CAMCI_backup.mxd;6;44
+GIS.RoadwayInventory;CAMCI_BDMS.mxd;6;44
+GIS.RoadwayInventory;HDSV.mxd;9;44
+GIS.RoadwayInventory;QualifyAccessHwys.mxd;1;44
+GIS.RoadwayInventory;RISV.mxd;16;44
+GIS.HwyWidthRestrictions;No Map Using;0;0
+ENVGIS.NHD_flowline;envviewer.mxd;1;1
+FW.ThruwayThruway;No Map Using;0;0
+RSDA.ROAD_STATUS;RSDA (1).mxd;1;5
+RSDA.ROAD_STATUS;RSDA.mxd;1;5
+RSDA.ROAD_STATUS;RSDAdelete.mxd;1;5
+RSDA.ROAD_STATUS;RSDA_External.mxd;1;5
+RSDA.ROAD_STATUS;RSDA_SEMO.mxd;1;5
+GIS.PrivateAirports;No Map Using;0;0
+ENVGIS.landuse;envviewer.mxd;1;1
+GIS.BikeRoutes_export_from_SV;NYSBikeMap.mxd;1;1
+GIS.R7_2010_Hal;No Map Using;0;0
+GIS.AD_Downstate_HAL_Events;No Map Using;0;0
+GIS.PMI_Mapping;pmi.mxd;1;1
+GIS.ReportingLayer;No Map Using;0;0
+ENVGIS.buffer_060602;NaturalHeritage.mxd;1;1
+FW.StreetsSimpleNew;No Map Using;0;0
+GIS.OffSystemCounts;No Map Using;0;0
+RSDA.ROAD_STATUS_HISTORY;No Map Using;0;0
+GIS.PSS_UNMAPPABLE;No Map Using;0;0
+GIS.FloorPlan_Street_Ave_Pod;Wolf_Rd_Base.mxd;1;1
+GIS.r7_2010_pii;No Map Using;0;0
+GIS.R7_Adopt_A_Highway_New;No Map Using;0;0
+GISLINK.MV_SOS_SUBRES4GIS_QA;No Map Using;0;0
+GIS.BORING_LOCATIONS_WRONG_COUNTY;No Map Using;0;0
+ENVGIS.SmallCulvers_EPriorities;envviewer.mxd;1;1
+GIS.BikeRoutes_NotClipped;No Map Using;0;0
+ENVGIS.ny_npl;envviewer.mxd;1;1
+GIS.BDMS_BRIDGE_PERMIT_DATA;pst_bdms.mxd;3;3
+ENVGIS.stream24;envviewer.mxd;1;1
+GIS.AD_Downstate_Accident_Events;No Map Using;0;0
+GISLINK.MV_GIS_BRIDGE_PERMIT_DATA;No Map Using;0;0
+FW.RefMkrRoute;No Map Using;0;0
+FW.DOTTowers;R7Data (2).mxd;1;1
+FW.ThruwayService;No Map Using;0;0
+ENVGIS.ny_cerclis;envviewer.mxd;1;1
+RSDA.RS_ARCHIVE;No Map Using;0;0
+GIS.CAPITAL125;No Map Using;0;0
+ENVGIS.potential_ej_areas;envviewer.mxd;1;1
+ENVGIS.dec_land;envviewer.mxd;1;1
+FW.Institution;No Map Using;0;0
+FW.CollegeUniversity;No Map Using;0;0
+GISLINK.MV_CAPITAL_PROJECTS_LOCATED_QA;No Map Using;0;0
+GIS.AD_Upstate_HAL_Events;No Map Using;0;0
+ENVGIS.primefarm_110429;envviewer.mxd;1;1
+FW.State;No Map Using;0;0
+GIS.NYWORKS_CFA_Projects;No Map Using;0;0
+GIS.r7_2012_pii;No Map Using;0;0
+FW.BoatLaunch;No Map Using;0;0
+GIS.SV_GIS_BRIDGE_PERMIT_DATA_QA;No Map Using;0;0
+ENVGIS.nynhp_dot_potential;NaturalHeritage.mxd;1;1
+ENVGIS.IA_S_Leopard_Frog_historical;No Map Using;0;0
+GIS.DOT_Facilities_1;No Map Using;0;0
+GIS.BUFFALO125;No Map Using;0;0
+GIS.Parkways;CVDataFeed.mxd;1;3
+GIS.Parkways;osowscreen.mxd;1;3
+GIS.Parkways;osowscreen_new_fields.mxd;1;3
+GIS.CPU_BikeWalkPotential;CAMCI.mxd;1;3
+GIS.CPU_BikeWalkPotential;CAMCI_backup.mxd;1;3
+GIS.CPU_BikeWalkPotential;CAMCI_BDMS.mxd;1;3
+GIS.RDV_Rail_Crossings;RailDataViewer.mxd;2;7
+GIS.RDV_Rail_Crossings;RailDataViewer2.mxd;2;7
+GIS.RDV_Rail_Crossings;RDV.mxd;2;7
+GIS.RDV_Rail_Crossings;ris.mxd;1;7
+GIS.ROME125;No Map Using;0;0
+GIS.ReportingLayer113009;No Map Using;0;0
+RSDA.ROAD_STATUS_2013;No Map Using;0;0
+ENVGIS.IA_Wormsnake;No Map Using;0;0
+GIS.SV_BRIDGE_INV_DATA;No Map Using;0;0
+FW.DOTRegions;envviewer.mxd;1;12
+FW.DOTRegions;maintviewer.mxd;1;12
+FW.DOTRegions;maintviewerMarch2-2018.mxd;1;12
+FW.DOTRegions;maintviewer_backup.mxd;1;12
+FW.DOTRegions;mesonet.mxd;1;12
+FW.DOTRegions;NaturalHeritage.mxd;1;12
+FW.DOTRegions;pmi.mxd;1;12
+FW.DOTRegions;R7Data (2).mxd;1;12
+FW.DOTRegions;R7RoadHistory.mxd;1;12
+FW.DOTRegions;RailDataViewer.mxd;1;12
+FW.DOTRegions;RailDataViewer2.mxd;1;12
+FW.DOTRegions;ZoomToPlace.mxd;1;12
+GIS.TruckAccess_old;No Map Using;0;0
+GIS.MPOBoundaries;NYBoundaries.mxd;1;1
+GIS.CPU_BRIDGE_INV_CW_BakS_1;No Map Using;0;0
+FW.PlaceLocation;No Map Using;0;0
+GIS.Roads2003;No Map Using;0;0
+FW.StreetsSimple;envviewer.mxd;1;1
+ENVGIS.part_203;envviewer.mxd;1;1
+FW.StateNonRecreation;No Map Using;0;0
+GISLINK.MV_CAPITAL_PROJECTS_HIGHWAY;No Map Using;0;0
+GIS.MiscellaneousAviation;No Map Using;0;0
+GIS.LargeCulverts;No Map Using;0;0
+FW.PassengerStations;No Map Using;0;0
+GIS.Salt_Fuel_locations;maintviewer.mxd;1;3
+GIS.Salt_Fuel_locations;maintviewerMarch2-2018.mxd;1;3
+GIS.Salt_Fuel_locations;maintviewer_backup.mxd;1;3
+ENVGIS.tidal;envviewer.mxd;1;2
+ENVGIS.tidal;NaturalHeritage.mxd;1;2
+GIS.CPU_Stwd_CARD_Elgbl_Segs;CAMCI.mxd;1;3
+GIS.CPU_Stwd_CARD_Elgbl_Segs;CAMCI_backup.mxd;1;3
+GIS.CPU_Stwd_CARD_Elgbl_Segs;CAMCI_BDMS.mxd;1;3
+GIS.RIS_LINEAR_FEATURES_TABLE;No Map Using;0;0
+FW.FreightStations;No Map Using;0;0
+GIS.PointsofEntry;PointsofEntry.mxd;1;1
+ENVGIS.hydric_soils;NaturalHeritage.mxd;1;1
+GIS.SYRACUSE125;No Map Using;0;0
+GIS.BikeRoutes_BU;No Map Using;0;0
+GIS.CARSRoadwayPointsOct2009;No Map Using;0;0
+GISLINK.MV_GIS_STKPL_STATUS_STWD_QA;No Map Using;0;0
+GIS.R7_Adopt_A_Highway;R7Data (2).mxd;1;1
+FW.Maneuver;No Map Using;0;0
+FW.MilepointRoute;ris.mxd;2;2
+GIS.BORING_LOCATIONS;No Map Using;0;0
+GIS.SV_GIS_BRIDGE_PERMIT_DATA;pst_bdms.mxd;1;1
+GIS.StateHeliports;No Map Using;0;0
+GIS.RD_Railroad_Search;RailDataViewer.mxd;1;2
+GIS.RD_Railroad_Search;RailDataViewer2.mxd;1;2
+GIS.Continuous_Count;TDV.mxd;1;1
+GISLINK.MV_GIS_STKPL_STATUS_QA;No Map Using;0;0
+GIS.Parkways_new;PST.mxd;1;2
+GIS.Parkways_new;pst_bdms.mxd;1;2
+GIS.BikeRoutes;BikeRoutes.mxd;1;2
+GIS.BikeRoutes;BikeRoutes_RedGreen.mxd;1;2
+ENVGIS.haz_subst_merged;envviewer.mxd;1;1
+GIS.CPU_Flood_Watch_Bridge_List;CAMCI.mxd;1;3
+GIS.CPU_Flood_Watch_Bridge_List;CAMCI_backup.mxd;1;3
+GIS.CPU_Flood_Watch_Bridge_List;CAMCI_BDMS.mxd;1;3
+GIS.PSS_HIGHWAY_PROJECTS_PRE;No Map Using;0;0
+GIS.BINGHAMTON125;No Map Using;0;0
+ENVGIS.state_acquis;envviewer.mxd;1;1
+GIS.CulvertLocations;No Map Using;0;0
+GIS.shield_pnts_state;No Map Using;0;0
+ENVGIS.primaqu;envviewer.mxd;1;1
+ENVGIS.IA_Birds_Woodland_KWarbler;No Map Using;0;0
+ENVGIS.buffer100foot;envviewer.mxd;1;1
+GISLINK.MV_GIS_LCIS_CLVR_DATA_QA;No Map Using;0;0
+ENVGIS.nynhp_dot_known;NaturalHeritage.mxd;1;1
+GIS.PSS_BRIDGE_PROJECTS_UM;No Map Using;0;0
+ENVGIS.oilgas_wells05;envviewer.mxd;1;1
+ENVGIS.CONUS_wet_poly_utm;NaturalHeritage.mxd;1;1
+GIS.BPO_Availability_WGS;No Map Using;0;0
+RSDA.DAMAGE_ASSESSMENTS;No Map Using;0;0
+GISLINK.MV_GIS_SCIIS_DATA;No Map Using;0;0
+GIS.SignalizedIntersections;SignalizedIntersections.mxd;1;1
+GIS.CPU_Ramps;CAMCI.mxd;1;3
+GIS.CPU_Ramps;CAMCI_backup.mxd;1;3
+GIS.CPU_Ramps;CAMCI_BDMS.mxd;1;3
+GIS.MajorHighwayProjects;No Map Using;0;0
+FW.NursingHome;No Map Using;0;0
+ENVGIS.dva_1990_w_count_by_rm;envviewer.mxd;1;1
+GIS.LOCATIONPOINTS;No Map Using;0;0
+FW.StateRecreation;envviewer.mxd;1;1
+ENVGIS.pm25;envviewer.mxd;1;1
+FW.DOTResidencies;envviewer.mxd;1;2
+FW.DOTResidencies;R7Data (2).mxd;1;2
+GISLINK.MV_DIRECTORY;No Map Using;0;0
+GIS.BW250;No Map Using;0;0
+FW.Village;ris.mxd;1;3
+FW.Village;SharedServices.mxd;1;3
+FW.Village;ZoomToPlace.mxd;1;3
+GISLINK.MV_GIS_INV_DATA;No Map Using;0;0
+FW.FederalNonRecreation;R7Data (2).mxd;1;1
+GISLINK.MV_CAPITAL_PROJECTS_BRIDGE_QA;No Map Using;0;0
+ENVGIS.basin24;envviewer.mxd;1;1
+GIS.PMI_Photos;pmi.mxd;1;1
+GIS.FDRStructures;FDR Structures.mxd;1;1
+FW.Junctions;No Map Using;0;0
+ENVGIS.city48;envviewer.mxd;1;1
+FW.InnerCityTax;No Map Using;0;0
+ENVGIS.phys_provinces;envviewer.mxd;1;1
+FW.Fairground;No Map Using;0;0
+GIS.MedicalHeliports;No Map Using;0;0
+FW.CountyShoreline;envviewer.mxd;1;6
+FW.CountyShoreline;osowscreen.mxd;1;6
+FW.CountyShoreline;osowscreen_new_fields.mxd;1;6
+FW.CountyShoreline;PST.mxd;1;6
+FW.CountyShoreline;pst_bdms.mxd;1;6
+FW.CountyShoreline;SharedServices.mxd;1;6
+GIS.SV_LARGECULVERTDATA;No Map Using;0;0
+GIS.ScourCriticalFloodProne;SCFPBP.mxd;3;3
+FW.PointOfInterest;No Map Using;0;0
+GIS.RD_Rail_Bridges;RailDataViewer.mxd;1;2
+GIS.RD_Rail_Bridges;RailDataViewer2.mxd;1;2
+GIS.CPU_BridgeFlags;No Map Using;0;0
+GIS.CPU_PII;No Map Using;0;0
+GISLINK.MV_SSA_STATUS;No Map Using;0;0
+GIS.BDIS_LARGECULVERTS;CAMCI.mxd;1;3
+GIS.BDIS_LARGECULVERTS;envviewer.mxd;1;3
+GIS.BDIS_LARGECULVERTS;R7Data (2).mxd;1;3
+GIS.SV_LARGECULVERTDATA_QA;No Map Using;0;0
+ENVGIS.r3_dumdum;envviewer.mxd;1;1
+FW.BikeRoutes;R7Data (2).mxd;1;1
+GIS.LOWHUD125;No Map Using;0;0

@@ -1,0 +1,819 @@
+Data Name	MxdUsedIn	CountPerMxd	CountTotal
+AGSDEV01.VERSION_1_ROW_LOCKS	No Map Using	0	0
+ENVGIS.ag_districts_060217	envviewer.mxd	1	2
+ENVGIS.ag_districts_060217	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.apalandclass	envviewer.mxd	2	4
+ENVGIS.apalandclass	envviewer_wvmoap134_backup.mxd	2	4
+ENVGIS.archeology	envviewer.mxd	1	2
+ENVGIS.archeology	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.arcs_060602	NaturalHeritage.mxd	1	1
+ENVGIS.basin24	envviewer.mxd	1	2
+ENVGIS.basin24	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.bedrock	envviewer.mxd	1	2
+ENVGIS.bedrock	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.bin_rcra_new	envviewer.mxd	1	2
+ENVGIS.bin_rcra_new	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.buffer_060602	NaturalHeritage.mxd	1	1
+ENVGIS.buffer100foot	envviewer.mxd	1	2
+ENVGIS.buffer100foot	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.city48	envviewer.mxd	1	2
+ENVGIS.city48	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.co_new	envviewer.mxd	1	2
+ENVGIS.co_new	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.coalgas	envviewer.mxd	1	2
+ENVGIS.coalgas	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.Coastal_boundaries	envviewer.mxd	1	2
+ENVGIS.Coastal_boundaries	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.Coastal_habitats	envviewer.mxd	1	2
+ENVGIS.Coastal_habitats	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.CONUS_wet_linears_utm	NaturalHeritage.mxd	1	1
+ENVGIS.CONUS_wet_poly_utm	NaturalHeritage.mxd	1	1
+ENVGIS.cover_type_arcs	envviewer.mxd	1	3
+ENVGIS.cover_type_arcs	envviewer_wvmoap134_backup.mxd	1	3
+ENVGIS.cover_type_arcs	NaturalHeritage.mxd	1	3
+ENVGIS.cover_type_polygons	envviewer.mxd	1	3
+ENVGIS.cover_type_polygons	envviewer_wvmoap134_backup.mxd	1	3
+ENVGIS.cover_type_polygons	NaturalHeritage.mxd	1	3
+ENVGIS.cr_reports	envviewer.mxd	1	2
+ENVGIS.cr_reports	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.Critical_Env_Areas	No Map Using	0	0
+ENVGIS.current_canal_alignment	envviewer.mxd	1	2
+ENVGIS.current_canal_alignment	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.dde	No Map Using	0	0
+ENVGIS.dec_land	envviewer.mxd	1	2
+ENVGIS.dec_land	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.dec_permitted_facility	envviewer.mxd	1	2
+ENVGIS.dec_permitted_facility	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.DEC_regions	envviewer.mxd	1	2
+ENVGIS.DEC_regions	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.DEC_wtrcls_line	envviewer.mxd	1	3
+ENVGIS.DEC_wtrcls_line	envviewer_wvmoap134_backup.mxd	1	3
+ENVGIS.DEC_wtrcls_line	NaturalHeritage.mxd	1	3
+ENVGIS.DEC_wtrcls_poly	envviewer.mxd	1	3
+ENVGIS.DEC_wtrcls_poly	envviewer_wvmoap134_backup.mxd	1	3
+ENVGIS.DEC_wtrcls_poly	NaturalHeritage.mxd	1	3
+ENVGIS.dec11_new	envviewer.mxd	1	2
+ENVGIS.dec11_new	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.DEC303d_lines	envviewer.mxd	1	2
+ENVGIS.DEC303d_lines	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.DEC303d_polys	envviewer.mxd	1	2
+ENVGIS.DEC303d_polys	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.decwet_arcs	envviewer.mxd	1	2
+ENVGIS.decwet_arcs	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.decwet_poly	envviewer.mxd	1	2
+ENVGIS.decwet_poly	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.desig_rivers_poly	envviewer.mxd	1	2
+ENVGIS.desig_rivers_poly	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.duct24	envviewer.mxd	1	2
+ENVGIS.duct24	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.dva_1990_w_count_by_rm	envviewer.mxd	1	2
+ENVGIS.dva_1990_w_count_by_rm	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.dva_1995_with_rm_count	envviewer.mxd	1	2
+ENVGIS.dva_1995_with_rm_count	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.dva_pip	envviewer.mxd	1	2
+ENVGIS.dva_pip	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.dva2000_with_rm_count	envviewer.mxd	1	2
+ENVGIS.dva2000_with_rm_count	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.Env_easement	envviewer.mxd	1	2
+ENVGIS.Env_easement	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.farm_si_110429	envviewer.mxd	1	2
+ENVGIS.farm_si_110429	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.fishing_access	envviewer.mxd	1	2
+ENVGIS.fishing_access	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.Floodplain	envviewer.mxd	1	2
+ENVGIS.Floodplain	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.haz_subst_merged	envviewer.mxd	1	2
+ENVGIS.haz_subst_merged	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.historic_bridges	envviewer.mxd	1	2
+ENVGIS.historic_bridges	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.historic_canal_alignment	envviewer.mxd	1	2
+ENVGIS.historic_canal_alignment	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.historic_canal_structures	envviewer.mxd	1	2
+ENVGIS.historic_canal_structures	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.hwcm_reports	envviewer.mxd	1	2
+ENVGIS.hwcm_reports	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.hwys	envviewer.mxd	1	2
+ENVGIS.hwys	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.hwys_TEST	No Map Using	0	0
+ENVGIS.hydric_soils	NaturalHeritage.mxd	1	1
+ENVGIS.hydric_soils_110429	envviewer.mxd	1	2
+ENVGIS.hydric_soils_110429	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.IA_Birds_SaltMarsh	No Map Using	0	0
+ENVGIS.IA_Birds_SaltMarsh_historical	No Map Using	0	0
+ENVGIS.IA_Birds_Woodland_KWarbler	No Map Using	0	0
+ENVGIS.IA_Communities_palustrine	No Map Using	0	0
+ENVGIS.IA_EasternSpadefootToad	No Map Using	0	0
+ENVGIS.IA_FenceLizard	No Map Using	0	0
+ENVGIS.IA_PalustrineABasic_PWarbler	No Map Using	0	0
+ENVGIS.IA_PeregrineFalcon	No Map Using	0	0
+ENVGIS.IA_S_Leopard_Frog_historical	No Map Using	0	0
+ENVGIS.IA_SouthernLeopardFrog	No Map Using	0	0
+ENVGIS.IA_Tiger_Salamander	No Map Using	0	0
+ENVGIS.IA_Tiger_Salamander_historical	No Map Using	0	0
+ENVGIS.IA_Wormsnake	No Map Using	0	0
+ENVGIS.intakes	envviewer.mxd	1	2
+ENVGIS.intakes	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.Invasive_Plants	envviewer.mxd	1	2
+ENVGIS.Invasive_Plants	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.invasives_lines_combined	envviewer.mxd	1	2
+ENVGIS.invasives_lines_combined	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.invasives_points_combined	envviewer.mxd	1	2
+ENVGIS.invasives_points_combined	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.invasives_poly_combined	envviewer.mxd	1	2
+ENVGIS.invasives_poly_combined	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.landuse	envviewer.mxd	1	2
+ENVGIS.landuse	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.LargeCulvert_ElPriorities	envviewer.mxd	1	2
+ENVGIS.LargeCulvert_ElPriorities	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.lines	envviewer.mxd	1	2
+ENVGIS.lines	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.mines05	envviewer.mxd	1	2
+ENVGIS.mines05	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.national_parks	envviewer.mxd	1	2
+ENVGIS.national_parks	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.NationalRegisterListed	envviewer.mxd	1	2
+ENVGIS.NationalRegisterListed	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.NHD_Area	envviewer.mxd	1	2
+ENVGIS.NHD_Area	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.NHD_flowline	envviewer.mxd	1	2
+ENVGIS.NHD_flowline	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.NHD_point	envviewer.mxd	1	2
+ENVGIS.NHD_point	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.NHD_SubBasins	envviewer.mxd	1	2
+ENVGIS.NHD_SubBasins	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.NHD_waterbodies	envviewer.mxd	1	2
+ENVGIS.NHD_waterbodies	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.nonattainment_int_buffer	envviewer.mxd	1	2
+ENVGIS.nonattainment_int_buffer	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.nonattainment_intersections	envviewer.mxd	1	2
+ENVGIS.nonattainment_intersections	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.nr_all_May06	No Map Using	0	0
+ENVGIS.nri_join	envviewer.mxd	1	2
+ENVGIS.nri_join	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.nwi_arcs	envviewer.mxd	1	2
+ENVGIS.nwi_arcs	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.nwi_poly	envviewer.mxd	1	2
+ENVGIS.nwi_poly	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.NY_Aquifers_region	envviewer.mxd	1	2
+ENVGIS.NY_Aquifers_region	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.ny_cerclis	envviewer.mxd	1	2
+ENVGIS.ny_cerclis	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.ny_npl	envviewer.mxd	1	2
+ENVGIS.ny_npl	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.ny_rcr	envviewer.mxd	1	2
+ENVGIS.ny_rcr	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.ny_ssa	envviewer.mxd	1	2
+ENVGIS.ny_ssa	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.ny_tri	envviewer.mxd	1	2
+ENVGIS.ny_tri	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.nycso	envviewer.mxd	1	2
+ENVGIS.nycso	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.nyfaults	envviewer.mxd	1	2
+ENVGIS.nyfaults	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.nynhp_dot_comms	NaturalHeritage.mxd	1	1
+ENVGIS.nynhp_dot_indiana_and_northern	NaturalHeritage.mxd	1	1
+ENVGIS.nynhp_dot_known	NaturalHeritage.mxd	1	1
+ENVGIS.nynhp_dot_potential	NaturalHeritage.mxd	1	1
+ENVGIS.oilgas_wells05	envviewer.mxd	1	2
+ENVGIS.oilgas_wells05	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.ozone_new	envviewer.mxd	1	2
+ENVGIS.ozone_new	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.part_203	envviewer.mxd	1	2
+ENVGIS.part_203	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.phosrestr24	envviewer.mxd	1	2
+ENVGIS.phosrestr24	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.phys_provinces	envviewer.mxd	1	2
+ENVGIS.phys_provinces	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.pm10_shore	envviewer.mxd	1	2
+ENVGIS.pm10_shore	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.pm25	envviewer.mxd	1	2
+ENVGIS.pm25	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.points	envviewer.mxd	1	2
+ENVGIS.points	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.polygons	envviewer.mxd	1	2
+ENVGIS.polygons	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.polygons_060602	NaturalHeritage.mxd	1	1
+ENVGIS.potential_ej_areas	envviewer.mxd	1	2
+ENVGIS.potential_ej_areas	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.primaqu	envviewer.mxd	1	2
+ENVGIS.primaqu	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.primefarm_110429	envviewer.mxd	1	2
+ENVGIS.primefarm_110429	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.quads	envviewer.mxd	1	2
+ENVGIS.quads	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.r3_dumdum	envviewer.mxd	1	2
+ENVGIS.r3_dumdum	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.reg_ms4	envviewer.mxd	1	2
+ENVGIS.reg_ms4	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.regulatory_arcs	envviewer.mxd	1	3
+ENVGIS.regulatory_arcs	envviewer_wvmoap134_backup.mxd	1	3
+ENVGIS.regulatory_arcs	NaturalHeritage.mxd	1	3
+ENVGIS.regulatory_polygons	envviewer.mxd	1	3
+ENVGIS.regulatory_polygons	envviewer_wvmoap134_backup.mxd	1	3
+ENVGIS.regulatory_polygons	NaturalHeritage.mxd	1	3
+ENVGIS.remediation_sites	envviewer.mxd	1	2
+ENVGIS.remediation_sites	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.scenic_areas	envviewer.mxd	1	2
+ENVGIS.scenic_areas	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.Scenic_Byways	envviewer.mxd	1	2
+ENVGIS.Scenic_Byways	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.SmallCulvers_EPriorities	envviewer.mxd	1	2
+ENVGIS.SmallCulvers_EPriorities	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.spills_mar_04_material	envviewer.mxd	1	2
+ENVGIS.spills_mar_04_material	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.springs	envviewer.mxd	1	2
+ENVGIS.springs	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.state_acquis	envviewer.mxd	1	2
+ENVGIS.state_acquis	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.stream24	envviewer.mxd	1	2
+ENVGIS.stream24	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.surficial	envviewer.mxd	1	2
+ENVGIS.surficial	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.tbins	envviewer.mxd	1	2
+ENVGIS.tbins	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.tidal	envviewer.mxd	1	3
+ENVGIS.tidal	envviewer_wvmoap134_backup.mxd	1	3
+ENVGIS.tidal	NaturalHeritage.mxd	1	3
+ENVGIS.tmdl_basins	envviewer.mxd	1	2
+ENVGIS.tmdl_basins	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.tri	envviewer.mxd	1	2
+ENVGIS.tri	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.VRA_2008_lines	envviewer.mxd	1	2
+ENVGIS.VRA_2008_lines	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.VRA_2008_pts	envviewer.mxd	1	2
+ENVGIS.VRA_2008_pts	envviewer_wvmoap134_backup.mxd	1	2
+ENVGIS.wells	envviewer.mxd	1	2
+ENVGIS.wells	envviewer_wvmoap134_backup.mxd	1	2
+FW.ACEPorts	No Map Using	0	0
+FW.AdirondackCatskill	envviewer.mxd	1	2
+FW.AdirondackCatskill	envviewer_wvmoap134_backup.mxd	1	2
+FW.AirportBoundary	No Map Using	0	0
+FW.AirportLocation	No Map Using	0	0
+FW.AirTerminal	No Map Using	0	0
+FW.AreaHydrography	envviewer.mxd	1	2
+FW.AreaHydrography	envviewer_wvmoap134_backup.mxd	1	2
+FW.BikeRoutes	No Map Using	0	0
+FW.BoatLaunch	No Map Using	0	0
+FW.BoundaryLine	No Map Using	0	0
+FW.Bridge	AgileAssets.mxd	1	7
+FW.Bridge	envviewer.mxd	1	7
+FW.Bridge	envviewer_wvmoap134_backup.mxd	1	7
+FW.Bridge	NaturalHeritage.mxd	1	7
+FW.Bridge	ris.mxd	1	7
+FW.Bridge	ris_09202017.mxd	1	7
+FW.Bridge	ris_geocortex.mxd	1	7
+FW.BusStation	CAMCI.mxd	1	3
+FW.BusStation	CAMCI_BDIS.mxd	1	3
+FW.BusStation	CAMCI_BDIS_SC.mxd	1	3
+FW.CityTax	No Map Using	0	0
+FW.CityTown	ris.mxd	1	2
+FW.CityTown	ris_09202017.mxd	1	2
+FW.CityTownShoreline	ris_geocortex.mxd	1	2
+FW.CityTownShoreline	SharedServices.mxd	1	2
+FW.CollegeUniversity	No Map Using	0	0
+FW.County	ZoomToPlace.mxd	2	4
+FW.County	ris.mxd	1	4
+FW.County	ris_09202017.mxd	1	4
+FW.CountyRecreation	envviewer.mxd	1	2
+FW.CountyRecreation	envviewer_wvmoap134_backup.mxd	1	2
+FW.CountySeat	No Map Using	0	0
+FW.CountyShoreline	envviewer.mxd	1	6
+FW.CountyShoreline	envviewer_wvmoap134_backup.mxd	1	6
+FW.CountyShoreline	PST.mxd	1	6
+FW.CountyShoreline	PST_Rest.mxd	1	6
+FW.CountyShoreline	ris_geocortex.mxd	1	6
+FW.CountyShoreline	SharedServices.mxd	1	6
+FW.Customs	No Map Using	0	0
+FW.DOTFacility	envviewer.mxd	1	2
+FW.DOTFacility	envviewer_wvmoap134_backup.mxd	1	2
+FW.DOTRegions	ZoomToPlace.mxd	2	13
+FW.DOTRegions	envviewer.mxd	1	13
+FW.DOTRegions	envviewer_wvmoap134_backup.mxd	1	13
+FW.DOTRegions	maintviewer - Copy.mxd	1	13
+FW.DOTRegions	maintviewer.mxd	1	13
+FW.DOTRegions	maintviewer_GISP.mxd	1	13
+FW.DOTRegions	mesonet.mxd	1	13
+FW.DOTRegions	NaturalHeritage.mxd	1	13
+FW.DOTRegions	pmi.mxd	1	13
+FW.DOTRegions	R7RoadHistory.mxd	1	13
+FW.DOTRegions	RailDataViewer.mxd	1	13
+FW.DOTRegions	StatePlanning.mxd	1	13
+FW.DOTRegionsShoreline	AgileAssets.mxd	1	2
+FW.DOTRegionsShoreline	BikeRoutes.mxd	1	2
+FW.DOTResidencies	ZoomToPlace.mxd	2	4
+FW.DOTResidencies	envviewer.mxd	1	4
+FW.DOTResidencies	envviewer_wvmoap134_backup.mxd	1	4
+FW.DOTTowers	No Map Using	0	0
+FW.EconomicDevelopmentZones	No Map Using	0	0
+FW.Exit	No Map Using	0	0
+FW.Fairground	No Map Using	0	0
+FW.FederalNonRecreation	No Map Using	0	0
+FW.FederalRecreation	envviewer.mxd	1	2
+FW.FederalRecreation	envviewer_wvmoap134_backup.mxd	1	2
+FW.FHWAUrbanAreas2000	No Map Using	0	0
+FW.FHWAUrbanAreas2010	ris.mxd	1	3
+FW.FHWAUrbanAreas2010	ris_09202017.mxd	1	3
+FW.FHWAUrbanAreas2010	ris_geocortex.mxd	1	3
+FW.FreightStations	No Map Using	0	0
+FW.GeneralHydrography	No Map Using	0	0
+FW.GovernmentOffice	No Map Using	0	0
+FW.Heliport	No Map Using	0	0
+FW.Hospital	CAMCI.mxd	1	3
+FW.Hospital	CAMCI_BDIS.mxd	1	3
+FW.Hospital	CAMCI_BDIS_SC.mxd	1	3
+FW.Hydrography3m	No Map Using	0	0
+FW.IndianReservation	envviewer.mxd	1	2
+FW.IndianReservation	envviewer_wvmoap134_backup.mxd	1	2
+FW.InnerCityTax	No Map Using	0	0
+FW.Institution	No Map Using	0	0
+FW.InterstateMilepost	No Map Using	0	0
+FW.InterstateMilepostRoute	No Map Using	0	0
+FW.Junctions	No Map Using	0	0
+FW.Library	No Map Using	0	0
+FW.LinearHydrography	envviewer.mxd	1	2
+FW.LinearHydrography	envviewer_wvmoap134_backup.mxd	1	2
+FW.Locks	No Map Using	0	0
+FW.MajorHighway	envviewer.mxd	1	2
+FW.MajorHighway	envviewer_wvmoap134_backup.mxd	1	2
+FW.MajorRetailCenter	No Map Using	0	0
+FW.Maneuver	No Map Using	0	0
+FW.MilepointRoute	ris.mxd	2	7
+FW.MilepointRoute	ris_09202017.mxd	2	7
+FW.MilepointRoute	ris_geocortex.mxd	2	7
+FW.MilepointRoute	AgileAssets.mxd	1	7
+FW.MPOBoundaries	No Map Using	0	0
+FW.MunicipalRecreation	envviewer.mxd	1	2
+FW.MunicipalRecreation	envviewer_wvmoap134_backup.mxd	1	2
+FW.NortheastStates	No Map Using	0	0
+FW.NursingHome	No Map Using	0	0
+FW.NYAssemblyDistricts	CAMCI.mxd	1	4
+FW.NYAssemblyDistricts	CAMCI_BDIS.mxd	1	4
+FW.NYAssemblyDistricts	CAMCI_BDIS_SC.mxd	1	4
+FW.NYAssemblyDistricts	StatePlanning.mxd	1	4
+FW.NYEconomicDevelopmentRegions	No Map Using	0	0
+FW.NYGasCompanies	No Map Using	0	0
+FW.NYPowerCompanies	No Map Using	0	0
+FW.NYSenateDistricts	CAMCI.mxd	1	4
+FW.NYSenateDistricts	CAMCI_BDIS.mxd	1	4
+FW.NYSenateDistricts	CAMCI_BDIS_SC.mxd	1	4
+FW.NYSenateDistricts	StatePlanning.mxd	1	4
+FW.ParkingArea	No Map Using	0	0
+FW.PassengerStations	No Map Using	0	0
+FW.PlaceLocation	No Map Using	0	0
+FW.PointOfInterest	No Map Using	0	0
+FW.PostalBoundary	envviewer.mxd	1	2
+FW.PostalBoundary	envviewer_wvmoap134_backup.mxd	1	2
+FW.PostalInventory	No Map Using	0	0
+FW.PublicSchool	No Map Using	0	0
+FW.Railroad	RailDataViewer.mxd	1	1
+FW.RailroadRemoved	No Map Using	0	0
+FW.ReferenceMarker	CAMCI.mxd	9	91
+FW.ReferenceMarker	CAMCI_BDIS.mxd	9	91
+FW.ReferenceMarker	CAMCI_BDIS_SC.mxd	9	91
+FW.ReferenceMarker	envviewer.mxd	9	91
+FW.ReferenceMarker	envviewer_wvmoap134_backup.mxd	9	91
+FW.ReferenceMarker	R7RoadHistory.mxd	9	91
+FW.ReferenceMarker	ris.mxd	9	91
+FW.ReferenceMarker	ris_09202017.mxd	9	91
+FW.ReferenceMarker	ris_geocortex.mxd	9	91
+FW.ReferenceMarker	StatePlanning.mxd	9	91
+FW.ReferenceMarker	AgileAssets.mxd	1	91
+FW.RefMkrRoute	No Map Using	0	0
+FW.SchoolDistricts	No Map Using	0	0
+FW.SeaPlaneBase	No Map Using	0	0
+FW.ServiceArea	No Map Using	0	0
+FW.State	ZoomToPlace.mxd	1	1
+FW.StateCampground	No Map Using	0	0
+FW.StateNonRecreation	No Map Using	0	0
+FW.StateRecreation	envviewer.mxd	1	2
+FW.StateRecreation	envviewer_wvmoap134_backup.mxd	1	2
+FW.StateShoreline	No Map Using	0	0
+FW.StreetsSimple	envviewer.mxd	1	2
+FW.StreetsSimple	envviewer_wvmoap134_backup.mxd	1	2
+FW.StreetsSimpleNew	No Map Using	0	0
+FW.TollPlaza	No Map Using	0	0
+FW.TouristInfo	No Map Using	0	0
+FW.TransportationTerminal	No Map Using	0	0
+FW.USCongressionalDistricts	CAMCI.mxd	1	4
+FW.USCongressionalDistricts	CAMCI_BDIS.mxd	1	4
+FW.USCongressionalDistricts	CAMCI_BDIS_SC.mxd	1	4
+FW.USCongressionalDistricts	StatePlanning.mxd	1	4
+FW.VAHospital	No Map Using	0	0
+FW.Village	ris.mxd	1	3
+FW.Village	ris_09202017.mxd	1	3
+FW.Village	SharedServices.mxd	1	3
+FW.VillageShoreline	ris_geocortex.mxd	1	1
+GIS.AADT_Current	No Map Using	0	0
+GIS.ABP_Bridges	No Map Using	0	0
+GIS.ABP_DB	No Map Using	0	0
+GIS.ABP_DBB	No Map Using	0	0
+GIS.ActiveBridgeProjectsWM	ActiveProjects_GCTX.mxd	1	1
+GIS.ActiveHighwayProjectsPtsWM	ActiveProjects_GCTX.mxd	1	1
+GIS.ActiveHighwayProjectsWM	ActiveProjects_GCTX.mxd	1	1
+GIS.ActiveLocatedProjectsWM	ActiveProjects_GCTX.mxd	1	1
+GIS.ActiveRegionwideProjectsWM	No Map Using	0	0
+GIS.ALB_CrashCrimePilot	No Map Using	0	0
+GIS.APBPhaseBoundries	No Map Using	0	0
+GIS.BackgroundHydro	No Map Using	0	0
+GIS.BackgroundHydro_full	No Map Using	0	0
+GIS.BDIS_BRIDGES	PST.mxd	4	11
+GIS.BDIS_BRIDGES	PST_Rest.mxd	4	11
+GIS.BDIS_BRIDGES	CAMCI.mxd	2	11
+GIS.BDIS_BRIDGES	pstbin.mxd	1	11
+GIS.BDIS_BRIDGES_TEST	CAMCI_Bridges_Null.mxd	1	1
+GIS.BDIS_LARGECULVERTS	CAMCI.mxd	1	4
+GIS.BDIS_LARGECULVERTS	CAMCI_BDIS.mxd	1	4
+GIS.BDIS_LARGECULVERTS	CAMCI_BDIS_SC.mxd	1	4
+GIS.BDIS_LARGECULVERTS	envviewer.mxd	1	4
+GIS.BDMS_BRIDGE_PERMIT_DATA	No Map Using	0	0
+GIS.BikeFacilities	No Map Using	0	0
+GIS.BikeRoutes	BikeRoutes.mxd	1	1
+GIS.BikeRoutes_NotClipped	No Map Using	0	0
+GIS.BINGHAMTON125	No Map Using	0	0
+GIS.BORING_LOCATIONS	No Map Using	0	0
+GIS.BORING_LOCATIONS_UNMAPPABLE	No Map Using	0	0
+GIS.BORING_LOCATIONS_WRONG_COUNTY	No Map Using	0	0
+GIS.BORING_TABLE	No Map Using	0	0
+GIS.BPO_Availability_WGS	No Map Using	0	0
+GIS.BPO_Bid_On_CBs_Phase1	No Map Using	0	0
+GIS.BPO_Cable_25_to_99_Dissolve	No Map Using	0	0
+GIS.BPO_Cable_All_Dissolve	No Map Using	0	0
+GIS.BPO_Cable_GreaterEqual100_Dis	No Map Using	0	0
+GIS.BPO_Cable_lessThan25_Dissolve	No Map Using	0	0
+GIS.BPO_Census_Blocks_2010	No Map Using	0	0
+GIS.BPO_Census_Blocks_2010_Light	No Map Using	0	0
+GIS.BPO_Charter_TW_Franchise	No Map Using	0	0
+GIS.BPO_ConnectNY_CB_List	No Map Using	0	0
+GIS.BPO_ConnectNY_CB_List_Intrsct	No Map Using	0	0
+GIS.BPO_DSL_25_to_99_Dissolve	No Map Using	0	0
+GIS.BPO_DSL_All_Dissolve	No Map Using	0	0
+GIS.BPO_DSL_greaterEqual100_Dis	No Map Using	0	0
+GIS.BPO_DSL_lessThan25_Dissolve	No Map Using	0	0
+GIS.BPO_Fiber_25_to_99_Dissolve	No Map Using	0	0
+GIS.BPO_Fiber_All_Dissolve	No Map Using	0	0
+GIS.BPO_Fiber_GreaterEqual100_Dis	No Map Using	0	0
+GIS.BPO_Fiber_lessThan25_Dissolve	No Map Using	0	0
+GIS.BPO_FixW_25_to_99_Dissolve	No Map Using	0	0
+GIS.BPO_FixW_All_Dissolve	No Map Using	0	0
+GIS.BPO_FixW_GreaterEqual100_Dis	No Map Using	0	0
+GIS.BPO_FixW_lessThan25_Dissolve	No Map Using	0	0
+GIS.BPO_Layer1	No Map Using	0	0
+GIS.BPO_MaxAdDown_06_2015_v2	No Map Using	0	0
+GIS.BPO_NoBroadbandAvailable_Dis	No Map Using	0	0
+GIS.BPO_REDC	No Map Using	0	0
+GIS.BPO_REDC_WGS	No Map Using	0	0
+GIS.BPO_Underserved_CBs_Phase1	No Map Using	0	0
+GIS.BPO_Unserved_CBs_Phase1	No Map Using	0	0
+GIS.BPO_Verizon_CAF	No Map Using	0	0
+GIS.BPO_WGS_Cable_25_to_99_Dis	No Map Using	0	0
+GIS.BPO_WGS_Cable_GrtrEqual100_Dis	No Map Using	0	0
+GIS.BPO_WGS_Cable_lessThan25_Dis	No Map Using	0	0
+GIS.BPO_WGS_CountyShoreline	No Map Using	0	0
+GIS.BPO_WGS_DSL_25_to_99_Dis	No Map Using	0	0
+GIS.BPO_WGS_DSL_GrtrEqual100_Dis	No Map Using	0	0
+GIS.BPO_WGS_DSL_lessThan25_Dis	No Map Using	0	0
+GIS.BPO_WGS_Fiber_25_to_99_Dis	No Map Using	0	0
+GIS.BPO_WGS_Fiber_GrtrEqual100_Dis	No Map Using	0	0
+GIS.BPO_WGS_Fiber_lessThan25_Dis	No Map Using	0	0
+GIS.BPO_WGS_FixW_25_to_99_Dis	No Map Using	0	0
+GIS.BPO_WGS_FixW_GrtrEqual100_Dis	No Map Using	0	0
+GIS.BPO_WGS_FixW_lessThan25_Dis	No Map Using	0	0
+GIS.BPOAvailability062015_v2_WGS	No Map Using	0	0
+GIS.BPOMaxAdDown062015_v2_WGS	No Map Using	0	0
+GIS.Bridge	No Map Using	0	0
+GIS.Bridge_Names	No Map Using	0	0
+GIS.BUFFALO125	No Map Using	0	0
+GIS.Business	CAMCI.mxd	1	3
+GIS.Business	CAMCI_BDIS.mxd	1	3
+GIS.Business	CAMCI_BDIS_SC.mxd	1	3
+GIS.BW250	No Map Using	0	0
+GIS.CAPITAL125	No Map Using	0	0
+GIS.CIIS_TABLE	No Map Using	0	0
+GIS.CirisCrashData	No Map Using	0	0
+GIS.Cities_DeleteMe	No Map Using	0	0
+GIS.CITYTOWN_DELETEME	No Map Using	0	0
+GIS.Continuous_Count	No Map Using	0	0
+GIS.CountyWithBuffer_DeleteME	No Map Using	0	0
+GIS.CPU_AirportData	CAMCI.mxd	1	3
+GIS.CPU_AirportData	CAMCI_BDIS.mxd	1	3
+GIS.CPU_AirportData	CAMCI_BDIS_SC.mxd	1	3
+GIS.CPU_BikeWalkPotential	CAMCI.mxd	1	3
+GIS.CPU_BikeWalkPotential	CAMCI_BDIS.mxd	1	3
+GIS.CPU_BikeWalkPotential	CAMCI_BDIS_SC.mxd	1	3
+GIS.CPU_Bridge_CurrentWorkCosts	No Map Using	0	0
+GIS.CPU_BRIDGE_INV_CWS_DEV	CAMCI.mxd	1	3
+GIS.CPU_BRIDGE_INV_CWS_DEV	CAMCI_BDIS.mxd	1	3
+GIS.CPU_BRIDGE_INV_CWS_DEV	CAMCI_BDIS_SC.mxd	1	3
+GIS.CPU_BridgeFlags	No Map Using	0	0
+GIS.CPU_Bridges_Impact	CAMCI.mxd	1	3
+GIS.CPU_Bridges_Impact	CAMCI_BDIS.mxd	1	3
+GIS.CPU_Bridges_Impact	CAMCI_BDIS_SC.mxd	1	3
+GIS.CPU_CARD_FxdObjROR_Count_Rate	No Map Using	0	0
+GIS.CPU_CARD_HeadOn_Count_Rate	CAMCI.mxd	1	3
+GIS.CPU_CARD_HeadOn_Count_Rate	CAMCI_BDIS.mxd	1	3
+GIS.CPU_CARD_HeadOn_Count_Rate	CAMCI_BDIS_SC.mxd	1	3
+GIS.CPU_CARD_Status	CAMCI.mxd	1	3
+GIS.CPU_CARD_Status	CAMCI_BDIS.mxd	1	3
+GIS.CPU_CARD_Status	CAMCI_BDIS_SC.mxd	1	3
+GIS.CPU_Culvert_Impacts	CAMCI.mxd	1	3
+GIS.CPU_Culvert_Impacts	CAMCI_BDIS.mxd	1	3
+GIS.CPU_Culvert_Impacts	CAMCI_BDIS_SC.mxd	1	3
+GIS.CPU_Flood_Watch_Bridge_List	CAMCI.mxd	1	3
+GIS.CPU_Flood_Watch_Bridge_List	CAMCI_BDIS.mxd	1	3
+GIS.CPU_Flood_Watch_Bridge_List	CAMCI_BDIS_SC.mxd	1	3
+GIS.CPU_NHSPlus	CAMCI.mxd	1	3
+GIS.CPU_NHSPlus	CAMCI_BDIS.mxd	1	3
+GIS.CPU_NHSPlus	CAMCI_BDIS_SC.mxd	1	3
+GIS.CPU_PavementNeedsWithDesc	CAMCI.mxd	3	9
+GIS.CPU_PavementNeedsWithDesc	CAMCI_BDIS.mxd	3	9
+GIS.CPU_PavementNeedsWithDesc	CAMCI_BDIS_SC.mxd	3	9
+GIS.CPU_PII	No Map Using	0	0
+GIS.CPU_Ramps	CAMCI.mxd	1	3
+GIS.CPU_Ramps	CAMCI_BDIS.mxd	1	3
+GIS.CPU_Ramps	CAMCI_BDIS_SC.mxd	1	3
+GIS.CPU_Roads_Impact	CAMCI.mxd	1	3
+GIS.CPU_Roads_Impact	CAMCI_BDIS.mxd	1	3
+GIS.CPU_Roads_Impact	CAMCI_BDIS_SC.mxd	1	3
+GIS.CPU_RoadwayInventory	No Map Using	0	0
+GIS.CPU_Sidewalks	CAMCI.mxd	1	3
+GIS.CPU_Sidewalks	CAMCI_BDIS.mxd	1	3
+GIS.CPU_Sidewalks	CAMCI_BDIS_SC.mxd	1	3
+GIS.CPU_Stwd_CARD_Elgbl_Segs	CAMCI.mxd	1	3
+GIS.CPU_Stwd_CARD_Elgbl_Segs	CAMCI_BDIS.mxd	1	3
+GIS.CPU_Stwd_CARD_Elgbl_Segs	CAMCI_BDIS_SC.mxd	1	3
+GIS.CulvertLocations	No Map Using	0	0
+GIS.CulvertLocations_dev	No Map Using	0	0
+GIS.CulvertLocations_test	No Map Using	0	0
+GIS.CulvertPoints	No Map Using	0	0
+GIS.DOT_Facility	maintviewer - Copy.mxd	1	4
+GIS.DOT_Facility	maintviewer.mxd	1	4
+GIS.DOT_Facility	maintviewer_GISP.mxd	1	4
+GIS.DOT_Facility	mesonet.mxd	1	4
+GIS.DOT_Stockpile_Facilities	No Map Using	0	0
+GIS.DOT_Stockpile_FacilitiesO	No Map Using	0	0
+GIS.DOTRegionOffices_WebMerc	No Map Using	0	0
+GIS.EmergencyEventPhotos	RSDA.mxd	1	3
+GIS.EmergencyEventPhotos	RSDA_BU_102317.mxd	1	3
+GIS.EmergencyEventPhotos	RSDA_osd4.mxd	1	3
+GIS.EmergencyEventPhotosWGS84	No Map Using	0	0
+GIS.FDRStructures	FDR Structures.mxd	1	1
+GIS.FederalAidEligibleRoads	FAE.mxd	1	2
+GIS.FederalAidEligibleRoads	FAEG.mxd	1	2
+GIS.FHWAUrbanAreas2000	No Map Using	0	0
+GIS.Floorplan_Conf_Rooms	50_Wolf_Rd_Cubes.mxd	1	1
+GIS.FloorPlan_Cubes	50_Wolf_Rd_Cubes.mxd	3	3
+GIS.Floorplan_EmptyFile	No Map Using	0	0
+GIS.FloorPlan_Features	Wolf_Rd_Base.mxd	1	1
+GIS.Floorplan_Outline	50_Wolf_Rd_Cubes.mxd	1	1
+GIS.Floorplan_Outline_pts	No Map Using	0	0
+GIS.FloorPlan_Street_Ave_Pod	Wolf_Rd_Base.mxd	1	1
+GIS.FunctionalClass	StatePlanning.mxd	1	1
+GIS.GCI_UPDATE10_04	No Map Using	0	0
+GIS.gnisFeature	No Map Using	0	0
+GIS.gnisHydro	No Map Using	0	0
+GIS.gnisPlace	No Map Using	0	0
+GIS.Grade_Crossings	No Map Using	0	0
+GIS.HARN2002	No Map Using	0	0
+GIS.HOOCS_Restrictions	PST_Rest.mxd	1	1
+GIS.HwyWidthRestrictions	No Map Using	0	0
+GIS.HwyWidthRestrictionsAll	No Map Using	0	0
+GIS.Interchanges	No Map Using	0	0
+GIS.Jeff_drop_inlets	No Map Using	0	0
+GIS.LargeCulverts	envviewer_wvmoap134_backup.mxd	1	1
+GIS.LocatedCapitalProjects_WebMerc	No Map Using	0	0
+GIS.LOCATIONPOINTS	No Map Using	0	0
+GIS.LocationZoomPoints	No Map Using	0	0
+GIS.LOWHUD125	No Map Using	0	0
+GIS.MajorBridgeProjects	No Map Using	0	0
+GIS.MajorHighwayProjects	No Map Using	0	0
+GIS.MajorHighwayProjectsPts	No Map Using	0	0
+GIS.MajorShoppingCenter	CAMCI.mxd	1	3
+GIS.MajorShoppingCenter	CAMCI_BDIS.mxd	1	3
+GIS.MajorShoppingCenter	CAMCI_BDIS_SC.mxd	1	3
+GIS.Mobile_Outfalls_SPDES	No Map Using	0	0
+GIS.ModularHomeRoutes	PST.mxd	1	2
+GIS.ModularHomeRoutes	PST_Rest.mxd	1	2
+GIS.MPOBoundaries	R7Data_2.mxd	1	1
+GIS.ms4_Outfall_DEV	No Map Using	0	0
+GIS.ms4_Outfall_DEV__ATTACH	No Map Using	0	0
+GIS.NECORS	No Map Using	0	0
+GIS.NEStates	No Map Using	0	0
+GIS.NH_arcs_060602	No Map Using	0	0
+GIS.NH_CONUS_wet_linears_utm	No Map Using	0	0
+GIS.NH_CONUS_wet_poly_utm	No Map Using	0	0
+GIS.NH_cover_type_arcs	No Map Using	0	0
+GIS.NH_cover_type_polygons	No Map Using	0	0
+GIS.NH_DEC_regions	No Map Using	0	0
+GIS.NH_hydric_soils	No Map Using	0	0
+GIS.NH_IA_Birds_SaltMarsh	No Map Using	0	0
+GIS.NH_IA_Communities_palustrine	No Map Using	0	0
+GIS.NH_IA_EasternSpadefootToad	No Map Using	0	0
+GIS.NH_IA_FenceLizard	No Map Using	0	0
+GIS.NH_IA_PeregrineFalcon	No Map Using	0	0
+GIS.NH_IA_SouthernLeopardFrog	No Map Using	0	0
+GIS.NH_IA_Tiger_Salamander	No Map Using	0	0
+GIS.NH_IA_Wormsnake	No Map Using	0	0
+GIS.NH_nynhp_dot_comms	No Map Using	0	0
+GIS.NH_nynhp_dot_known	No Map Using	0	0
+GIS.NH_nynhp_dot_potential	No Map Using	0	0
+GIS.NH_polygons_060602	No Map Using	0	0
+GIS.NH_regulatory_arcs	No Map Using	0	0
+GIS.NH_regulatory_polygons	No Map Using	0	0
+GIS.NH_tidal	No Map Using	0	0
+GIS.NonStateTouringRoute	PST_Rest.mxd	1	1
+GIS.NYC125	No Map Using	0	0
+GIS.NYCOrderHorizontal	No Map Using	0	0
+GIS.NYEconDevReg_WebMerc	No Map Using	0	0
+GIS.NYEconomicDevelopmentRegions	No Map Using	0	0
+GIS.NYHYD3M_WATER	No Map Using	0	0
+GIS.NYPLAN	No Map Using	0	0
+GIS.NYSDOTCORS	No Map Using	0	0
+GIS.NYStreets	No Map Using	0	0
+GIS.NYVertical	No Map Using	0	0
+GIS.NYWORKS_Bridges	No Map Using	0	0
+GIS.NYWORKS_CFA_Projects	No Map Using	0	0
+GIS.NYWORKS_Highway	No Map Using	0	0
+GIS.NYWORKS_Highway_PTS	No Map Using	0	0
+GIS.OffSystemCounts	No Map Using	0	0
+GIS.Parkways	CVDataFeed.mxd	1	1
+GIS.PH1ACCBridges	No Map Using	0	0
+GIS.PIL	CAMCI.mxd	1	3
+GIS.PIL	CAMCI_BDIS.mxd	1	3
+GIS.PIL	CAMCI_BDIS_SC.mxd	1	3
+GIS.PMI_Mapping	pmi.mxd	1	1
+GIS.PMI_Mapping_WGS	No Map Using	0	0
+GIS.pmi_nyHarn	No Map Using	0	0
+GIS.PMI_Orthos	pmi.mxd	1	1
+GIS.PMI_Photos	pmi.mxd	1	1
+GIS.PMI_SPCS_Zones	No Map Using	0	0
+GIS.PointsofEntry	PointsofEntry.mxd	1	1
+GIS.PointsofEntry_fc	No Map Using	0	0
+GIS.POUGHKEEPSIE125	No Map Using	0	0
+GIS.PSS_BRIDGE_PROJECTS_DEV	CAMCI.mxd	1	5
+GIS.PSS_BRIDGE_PROJECTS_DEV	CAMCI_BDIS.mxd	1	5
+GIS.PSS_BRIDGE_PROJECTS_DEV	CAMCI_BDIS_SC.mxd	1	5
+GIS.PSS_BRIDGE_PROJECTS_DEV	envviewer_wvmoap134_backup.mxd	1	5
+GIS.PSS_BRIDGE_PROJECTS_DEV	PSS_Projects.mxd	1	5
+GIS.PSS_HIGHWAY_POINT_WEBMERC_DEV	No Map Using	0	0
+GIS.PSS_HIGHWAY_PROJECTS_DEV	CAMCI.mxd	1	5
+GIS.PSS_HIGHWAY_PROJECTS_DEV	CAMCI_BDIS.mxd	1	5
+GIS.PSS_HIGHWAY_PROJECTS_DEV	CAMCI_BDIS_SC.mxd	1	5
+GIS.PSS_HIGHWAY_PROJECTS_DEV	envviewer_wvmoap134_backup.mxd	1	5
+GIS.PSS_HIGHWAY_PROJECTS_DEV	PSS_Projects.mxd	1	5
+GIS.PSS_HIGHWAY_TABLE_DEV	No Map Using	0	0
+GIS.PSS_UNMAPPABLE_DEV	No Map Using	0	0
+GIS.R1_SH_Number	No Map Using	0	0
+GIS.R1C_Linear_Contracts	No Map Using	0	0
+GIS.R1C_Point_Contracts	No Map Using	0	0
+GIS.R7_2007_Parcel_Centroids	No Map Using	0	0
+GIS.R7_2008_HAL	No Map Using	0	0
+GIS.R7_2008_PII	No Map Using	0	0
+GIS.R7_2008_PIL	No Map Using	0	0
+GIS.r7_2010_hal	No Map Using	0	0
+GIS.R7_2010_Parcel_Centroids	No Map Using	0	0
+GIS.r7_2010_pii	No Map Using	0	0
+GIS.r7_2012_hal	No Map Using	0	0
+GIS.r7_2012_pii	No Map Using	0	0
+GIS.R7_Adopt_A_Highway	No Map Using	0	0
+GIS.R7_Adopt_A_Highway_New	No Map Using	0	0
+GIS.R7_Area_Speed_Zones	No Map Using	0	0
+GIS.R7_Bridge_Inspection	R7Data_Structures.mxd	1	1
+GIS.R7_Linear_Contract	No Map Using	0	0
+GIS.R7_Linear_Contracts	R7RoadHistory.mxd	1	1
+GIS.R7_Municipal_Snow_Routes	No Map Using	0	0
+GIS.R7_Overheadsigns	R7Data_Structures.mxd	1	1
+GIS.R7_SH_Tick_Mark	R7RoadHistory.mxd	1	1
+GIS.R7_shlimits	R7RoadHistory.mxd	1	1
+GIS.R7_Speed_Limit	No Map Using	0	0
+GIS.R7_State_Snow_Routes	No Map Using	0	0
+GIS.R7_Tax_Parcels_Agencies	No Map Using	0	0
+GIS.R7_Traffic_Control_Devices	No Map Using	0	0
+GIS.R7_Truck_Access_Routes	No Map Using	0	0
+GIS.Rail_Trail	No Map Using	0	0
+GIS.RailBridges	No Map Using	0	0
+GIS.RD_Freight_Stations	RailDataViewer.mxd	1	1
+GIS.RD_Passenger_Stations	CAMCI.mxd	1	4
+GIS.RD_Passenger_Stations	CAMCI_BDIS.mxd	1	4
+GIS.RD_Passenger_Stations	CAMCI_BDIS_SC.mxd	1	4
+GIS.RD_Passenger_Stations	RailDataViewer.mxd	1	4
+GIS.RD_Rail_Bridges	RailDataViewer.mxd	1	1
+GIS.RD_Railroad_Removed	RailDataViewer.mxd	1	1
+GIS.RD_Railroad_Removed_Search	No Map Using	0	0
+GIS.RD_Railroad_Search	RailDataViewer.mxd	1	1
+GIS.RD_School_District_Boundaries	RailDataViewer.mxd	1	1
+GIS.RD_Yards	RailDataViewer.mxd	1	1
+GIS.RDV_QuadIndex	No Map Using	0	0
+GIS.RDV_Rail_Crossings	RailDataViewer.mxd	2	5
+GIS.RDV_Rail_Crossings	ris.mxd	1	5
+GIS.RDV_Rail_Crossings	ris_09202017.mxd	1	5
+GIS.RDV_Rail_Crossings	ris_geocortex.mxd	1	5
+GIS.RegionalEconomicDevelopment	No Map Using	0	0
+GIS.ReportingLayer	No Map Using	0	0
+GIS.ReportingLayer2006_2007	No Map Using	0	0
+GIS.ReportingLayer2007_2008_PreTio	No Map Using	0	0
+GIS.RestAreas	No Map Using	0	0
+GIS.RIS_LINEAR_FEATURES	ris_09202017.mxd	49	99
+GIS.RIS_LINEAR_FEATURES	ris_geocortex.mxd	49	99
+GIS.RIS_LINEAR_FEATURES	ris_geocortex_AllSegs.mxd	1	99
+GIS.RIS_LINEAR_FEATURES_TABLE	No Map Using	0	0
+GIS.RIS_LINEAR_FEATURES_TEST	No Map Using	0	0
+GIS.RIS_POINT_FEATURES	ris.mxd	5	15
+GIS.RIS_POINT_FEATURES	ris_09202017.mxd	5	15
+GIS.RIS_POINT_FEATURES	ris_geocortex.mxd	5	15
+GIS.RIS_POINT_FEATURES_TEST	No Map Using	0	0
+GIS.RoadwayInventory	CAMCI.mxd	6	21
+GIS.RoadwayInventory	CAMCI_BDIS.mxd	6	21
+GIS.RoadwayInventory	CAMCI_BDIS_SC.mxd	6	21
+GIS.RoadwayInventory	R7Data_2.mxd	2	21
+GIS.RoadwayInventory	QualifyAccessHwys.mxd	1	21
+GIS.ROCHESTER125	No Map Using	0	0
+GIS.ROME125	No Map Using	0	0
+GIS.Salt_Fuel_locations	maintviewer - Copy.mxd	1	3
+GIS.Salt_Fuel_locations	maintviewer.mxd	1	3
+GIS.Salt_Fuel_locations	maintviewer_GISP.mxd	1	3
+GIS.SAMPLES	No Map Using	0	0
+GIS.ScourCriticalFloodProne	No Map Using	0	0
+GIS.shield_pnts	No Map Using	0	0
+GIS.shield_pnts_county	No Map Using	0	0
+GIS.shield_pnts_state	No Map Using	0	0
+GIS.Short_Counts	No Map Using	0	0
+GIS.SignalizedIntersections	No Map Using	0	0
+GIS.SIMPLEBRIDGE_DELETEME	No Map Using	0	0
+GIS.SMALL_CULVERTS_DEV	CAMCI.mxd	1	3
+GIS.SMALL_CULVERTS_DEV	envviewer_wvmoap134_backup.mxd	1	3
+GIS.SMALL_CULVERTS_DEV	R7Data_Structures.mxd	1	3
+GIS.SP_Truck_Access_Routes	StatePlanning.mxd	1	1
+GIS.Specialty_PIL	CAMCI.mxd	1	3
+GIS.Specialty_PIL	CAMCI_BDIS.mxd	1	3
+GIS.Specialty_PIL	CAMCI_BDIS_SC.mxd	1	3
+GIS.StrV_LARGE_CULVERTS_DEV	No Map Using	0	0
+GIS.StrV_LARGE_CULVERTS_TEST	No Map Using	0	0
+GIS.StrV_Region_Residency_County	CAMCI.mxd	1	3
+GIS.StrV_Region_Residency_County	CAMCI_BDIS.mxd	1	3
+GIS.StrV_Region_Residency_County	CAMCI_BDIS_SC.mxd	1	3
+GIS.SV_BDIS_BRIDGES_TEST	CAMCI_BDIS.mxd	2	4
+GIS.SV_BDIS_BRIDGES_TEST	CAMCI_BDIS_SC.mxd	2	4
+GIS.SV_BIKEROUTES	No Map Using	0	0
+GIS.SV_BRIDGE_INV_DATA_DEV	No Map Using	0	0
+GIS.SV_GIS_BRIDGE_PERMIT_DATA_DEV	CVDataFeed.mxd	2	2
+GIS.SV_GIS_BRIDGE_PERMIT_DATA_TEST	No Map Using	0	0
+GIS.SV_LARGECULVERTDATA_DEV	R7Data_Structures.mxd	1	1
+GIS.SV_LARGECULVERTDATA_TEST	No Map Using	0	0
+GIS.SV_STKPL_STATUS_DEV	maintviewer.mxd	7	7
+GIS.SYRACUSE125	No Map Using	0	0
+GIS.ThroughRoutesAll	No Map Using	0	0
+GIS.TravelRestrictions	No Map Using	0	0
+GIS.TruckAccess	No Map Using	0	0
+GIS.UnbuiltArterial	PST.mxd	1	2
+GIS.UnbuiltArterial	PST_Rest.mxd	1	2
+GIS.UncontrolledCrosswalks	No Map Using	0	0
+GIS.University	CAMCI.mxd	1	3
+GIS.University	CAMCI_BDIS.mxd	1	3
+GIS.University	CAMCI_BDIS_SC.mxd	1	3
+GIS.UTICA125	No Map Using	0	0
+GIS.Valuation_Maps	RailDataViewer.mxd	1	1
+GIS.WaiverBridges	No Map Using	0	0
+GIS.WESTLONG125	No Map Using	0	0
+GIS.Zoom_To_Boundary	No Map Using	0	0
+GISLINK.BDIS_LARGECULVERTS_DATA	No Map Using	0	0
+GISLINK.MV_ADA_SIDEWALK	No Map Using	0	0
+GISLINK.MV_BDIS_BRIDGES_TEST	No Map Using	0	0
+GISLINK.MV_BDIS_LARGECULVERTS_TEST	No Map Using	0	0
+GISLINK.MV_BOR_BORING_GIS	No Map Using	0	0
+GISLINK.MV_BOR_BORING_GIS_TEST	No Map Using	0	0
+GISLINK.MV_BORING_PROJ_GIS	No Map Using	0	0
+GISLINK.MV_BORING_PROJ_GIS_TEST	No Map Using	0	0
+GISLINK.MV_BORING_SAMP_GIS	No Map Using	0	0
+GISLINK.MV_BORING_SAMP_GIS_TEST	No Map Using	0	0
+GISLINK.MV_CAPITAL_PROJECTS_BRIDGE	No Map Using	0	0
+GISLINK.MV_CAPITAL_PROJECTS_HIGHWAY	No Map Using	0	0
+GISLINK.MV_CAPITAL_PROJECTS_LOCATED	No Map Using	0	0
+GISLINK.MV_DIRECTORY_DEV	No Map Using	0	0
+GISLINK.MV_DIRECTORY_TEST	No Map Using	0	0
+GISLINK.MV_GCI_ARCSDE93	No Map Using	0	0
+GISLINK.MV_GCI_CROSSINGS_CURRENT_DEV	No Map Using	0	0
+GISLINK.MV_GIS_BIKING_FACILITIES_DEV	No Map Using	0	0
+GISLINK.MV_GIS_BRIDGE_PERMIT_DATA_DEV	No Map Using	0	0
+GISLINK.MV_GIS_BRIDGE_PERMIT_DATA_TEST	No Map Using	0	0
+GISLINK.MV_GIS_INV_DATA_DEV	No Map Using	0	0
+GISLINK.MV_GIS_INV_DATA_TEST	No Map Using	0	0
+GISLINK.MV_GIS_LCIS_CLVR_DATA_DEV	No Map Using	0	0
+GISLINK.MV_GIS_LCIS_CLVR_DATA_TEST	No Map Using	0	0
+GISLINK.MV_GIS_MEXIS_BIKING_DEV	No Map Using	0	0
+GISLINK.MV_SOS_SUBRES4GIS_DEV	No Map Using	0	0
+GISLINK.MV_SOS_SUBRES4GIS_TST	No Map Using	0	0
+GISLINK.MV_SSA_STATUS	No Map Using	0	0
+GISLINK.MV_WTA_WINTER_VIEW_DEV	No Map Using	0	0
+GISLINK.MV_WTA_WINTER_VIEW_TEST	No Map Using	0	0
+RSDA.DA_Test	No Map Using	0	0
+RSDA.DAMAGE_ASSESSMENTS	No Map Using	0	0
+RSDA.DAMAGE_ASSESSMENTS_HISTORY	No Map Using	0	0
+RSDA.ROAD_STATUS	RSDA.mxd	1	2
+RSDA.ROAD_STATUS	RSDA_BU_102317.mxd	1	2
+RSDA.ROAD_STATUS_HISTORY	No Map Using	0	0
+SDE.DBTUNE_20170215	No Map Using	0	0
+SPDES.ms4_outfall	No Map Using	0	0
+SPDES.Outfall	No Map Using	0	0
+SPDES.Outfallold	No Map Using	0	0
+SPDES.Stormwater_Outfall	envviewer.mxd	1	2
+SPDES.Stormwater_Outfall	envviewer_wvmoap134_backup.mxd	1	2

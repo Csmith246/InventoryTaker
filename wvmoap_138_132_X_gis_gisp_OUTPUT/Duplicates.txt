@@ -1,0 +1,14 @@
+DataName;Frameworks
+BikeRoutes;['FW', 'GIS']
+DOTFacility;['GIS', 'FW']
+Bridge;['FW', 'GIS']
+nonattainmentintersections;['GIS', 'ENVGIS']
+FullDataName;MxdsUsedIn
+FW.Bridge;envviewer.mxd-NaturalHeritage.mxd-ris.mxd-TDV.mxd-
+GIS.nonattainmentintersections;None
+FW.DOTFacility;envviewer.mxd-R7Data (2).mxd-R7Data (2).mxd-R7Data (2).mxd-
+GIS.DOTFacility;maintviewer.mxd-maintviewerMarch2-2018.mxd-maintviewer_backup.mxd-mesonet.mxd-
+GIS.Bridge;None
+FW.BikeRoutes;R7Data (2).mxd-
+GIS.BikeRoutes;BikeRoutes.mxd-BikeRoutes_RedGreen.mxd-
+ENVGIS.nonattainmentintersections;envviewer.mxd-

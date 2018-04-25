@@ -1,0 +1,20 @@
+UserName;TimesUsed
+AGSDEV01@osd4host.sde;3
+ags03@gisphost.sde;4
+ags02@gisphost.sde;9
+envgis@gisphost.sde;106
+DCags04@gisphost.sde;1
+DCags01@gisphost.sde;21
+DC_agsdev01@osd4host.sde;28
+elrs_viewer@gisvhost.sde;48
+DCagsdev01@osd4host.sde;21
+agsdev01_osd4.sde;2
+N/A;163
+envgis@osd4host.sde;123
+agsdev01@osd4.sde;4
+gis@gisphost.sde;5
+agsdev01@osd4host.sde;385
+ags01@gisphost.sde;45
+DC_gis@osd4host.sde;1
+gis@osd4host.sde;6
+Connection to osd4.sde;12

@@ -1,0 +1,20 @@
+DataName;Frameworks
+BikeRoutes;['FW', 'GIS']
+FHWAUrbanAreas2000;['FW', 'GIS']
+DOTFacility;['FW', 'GIS']
+Bridge;['FW', 'GIS']
+NYEconomicDevelopmentRegions;['FW', 'GIS']
+MPOBoundaries;['FW', 'GIS']
+FullDataName;MxdsUsedIn
+GIS.FHWAUrbanAreas2000;None
+GIS.MPOBoundaries;R7Data_2.mxd-
+FW.NYEconomicDevelopmentRegions;None
+FW.Bridge;AgileAssets.mxd-envviewer.mxd-envviewer_wvmoap134_backup.mxd-NaturalHeritage.mxd-ris.mxd-ris_09202017.mxd-ris_geocortex.mxd-
+FW.DOTFacility;envviewer.mxd-envviewer_wvmoap134_backup.mxd-
+FW.MPOBoundaries;None
+GIS.DOTFacility;maintviewer - Copy.mxd-maintviewer.mxd-maintviewer_GISP.mxd-mesonet.mxd-
+GIS.NYEconomicDevelopmentRegions;None
+GIS.Bridge;None
+FW.BikeRoutes;None
+FW.FHWAUrbanAreas2000;None
+GIS.BikeRoutes;BikeRoutes.mxd-
